@@ -37,10 +37,7 @@ Hold tight! A grand **Classification Mega Project** is on its way!
 
 ---
 
-## 📸 Meme-ify It?
-
-Oh, absolutely. Here’s a meme you can create:
-
+## fun example
 
 > "Me trying to choose between SVM, KNN, and Random Forest"
 
