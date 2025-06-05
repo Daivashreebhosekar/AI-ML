@@ -1,1 +1,2001 @@
-
+lead_id,name,age,location,property_type,owns_property,income_level,electricity_bill,contacted_before,interested,days_to_respond,bought_panel
+6424,Shaurya Verma,34,Kedgaon,Farm,True,High,3000,False,False,22,False
+7581,Aditya Naik,46,Bavdhan,Commercial,False,Low,8000,False,False,29,True
+4138,Isha Verma,57,Bavdhan,Commercial,False,Low,500,False,True,15,True
+9222,Sai Mehta,37,Kothrud,Residential,True,Low,1500,False,True,5,True
+5228,Reyansh Verma,25,Bavdhan,Commercial,False,Medium,5000,True,True,15,False
+2897,Arjun Pawar,56,Hadapsar,Residential,True,Medium,500,True,True,11,False
+5783,Reyansh Singh,38,Kedgaon,Commercial,False,High,3000,True,False,6,False
+7565,Krishna Patil,40,Viman Nagar,Farm,False,Medium,8000,False,False,20,True
+7654,Tanya Soni,56,Pune,Farm,True,Medium,1500,False,False,21,False
+3037,Rupal Mehta,25,Baner,Commercial,True,High,8000,True,False,9,True
+6500,Sai Mehta,46,Hinjewadi,Residential,True,Low,1500,False,True,24,False
+8024,Shaurya Bhosale,41,Bavdhan,Commercial,True,High,500,True,False,29,True
+7608,Tanya Patil,57,Viman Nagar,Farm,False,High,1500,False,False,18,False
+7196,Ravi Kumar,45,Bavdhan,Residential,True,High,3000,True,False,25,False
+9129,Rupal Thakur,37,Kedgaon,Residential,True,Low,1500,False,False,24,True
+5552,Aisha Sharma,43,Bavdhan,Commercial,True,Medium,1500,True,True,8,True
+7917,Tanya Kulkarni,57,Hadapsar,Commercial,True,High,500,True,False,21,False
+6238,Pooja Singh,41,Aundh,Farm,False,High,1500,False,True,11,False
+6844,Arjun Verma,60,Baner,Farm,False,Low,1500,True,True,5,False
+7639,Shruti Kumar,55,Aundh,Farm,False,Medium,3000,False,True,16,False
+1739,Shaurya Yadav,35,Kothrud,Commercial,True,Low,8000,False,False,30,True
+2173,Arjun Kulkarni,33,Bavdhan,Commercial,True,Low,5000,False,True,10,False
+7711,Sai Jadhav,40,Shivajinagar,Commercial,False,Low,8000,True,False,5,True
+5376,Tanya Thakur,31,Pune,Residential,True,Low,8000,False,False,24,False
+8839,Arjun Joshi,32,Pune,Commercial,False,High,1500,False,False,23,True
+2792,Yash Chavan,46,Kothrud,Farm,True,High,1500,False,True,14,True
+4879,Reyansh Mehta,51,Kedgaon,Commercial,False,Medium,500,False,False,8,True
+8324,Krishna Kulkarni,55,Baner,Farm,False,High,500,False,True,6,False
+3910,Reyansh Bhosale,43,Hadapsar,Farm,True,Low,5000,False,True,9,False
+7103,Krishna Soni,38,Pune,Commercial,False,Low,500,True,True,23,True
+9663,Rupal Patil,38,Kedgaon,Residential,False,Low,500,False,True,8,True
+2272,Aisha Kulkarni,25,Baner,Residential,True,High,5000,True,True,17,True
+2482,Krishna Soni,27,Hinjewadi,Residential,True,High,5000,False,False,5,False
+7577,Shruti Mehta,52,Baner,Farm,False,Medium,5000,False,False,7,True
+7513,Sai Soni,50,Hadapsar,Residential,True,High,1500,True,True,5,False
+2290,Arjun Shetty,36,Hinjewadi,Commercial,False,Low,8000,False,False,4,False
+5358,Isha Deshmukh,55,Shivajinagar,Commercial,True,High,1500,True,False,28,True
+4609,Riya Reddy,26,Baner,Residential,True,Low,3000,True,False,23,False
+5759,Aditya Pawar,52,Bavdhan,Farm,True,Medium,3000,False,True,13,False
+9762,Vivaan Naik,56,Hinjewadi,Farm,True,High,1500,True,True,29,True
+2832,Pooja Sharma,33,Bavdhan,Farm,False,High,500,True,False,17,False
+4389,Aisha Patil,57,Viman Nagar,Farm,True,High,5000,False,True,17,False
+8424,Aarav Deshmukh,46,Kothrud,Residential,False,Low,500,False,False,24,True
+3231,Shruti Sharma,25,Kothrud,Commercial,False,Low,8000,True,False,4,True
+7249,Yash Yadav,56,Shivajinagar,Residential,True,Low,1500,False,True,28,True
+6480,Riya Jadhav,51,Hadapsar,Commercial,True,Medium,5000,True,False,21,False
+5016,Riya Bhosale,39,Baner,Commercial,False,High,8000,True,True,22,False
+3104,Sai Naik,47,Kedgaon,Residential,True,High,3000,False,False,12,True
+8077,Tanya Shetty,32,Pune,Farm,True,Medium,5000,True,True,19,False
+9673,Aditya Reddy,32,Baner,Commercial,False,Medium,500,True,False,19,True
+1534,Madhuri Mehta,54,Kothrud,Residential,True,Medium,1500,False,False,22,True
+1406,Shaurya Joshi,45,Viman Nagar,Farm,True,Medium,5000,False,False,1,True
+6465,Pooja Reddy,26,Kedgaon,Farm,False,Low,8000,True,False,21,False
+1099,Nisha Joshi,51,Shivajinagar,Farm,False,Low,8000,True,True,9,True
+4775,Pooja Mehta,45,Viman Nagar,Farm,False,Low,3000,True,False,6,False
+3562,Aisha Reddy,33,Pune,Farm,True,High,3000,False,True,9,True
+1047,Rupal Singh,46,Shivajinagar,Residential,True,High,5000,True,True,13,True
+9851,Vivaan Pawar,31,Viman Nagar,Residential,True,Medium,8000,False,True,18,False
+3093,Shaurya Shetty,31,Baner,Farm,True,Medium,500,True,False,5,False
+5940,Shruti Patil,53,Baner,Residential,False,High,5000,False,False,8,False
+2771,Reyansh Soni,36,Pune,Residential,True,Medium,3000,True,False,1,False
+5904,Riya Jadhav,58,Bavdhan,Commercial,True,High,500,True,True,8,True
+6259,Isha Gupta,53,Pune,Commercial,False,Medium,5000,True,False,7,True
+7261,Arjun Thakur,41,Kedgaon,Commercial,False,High,1500,True,False,14,True
+3030,Ravi Singh,60,Kedgaon,Farm,True,Low,3000,True,False,19,True
+8401,Rupal Pawar,57,Bavdhan,Farm,True,Low,500,True,False,12,True
+3283,Shaurya Gupta,45,Shivajinagar,Farm,True,High,1500,True,False,17,False
+4956,Shruti Chavan,36,Shivajinagar,Residential,True,Low,8000,True,False,19,False
+5912,Tanya Chavan,48,Shivajinagar,Farm,False,Medium,500,False,True,27,True
+7706,Krishna Sharma,29,Bavdhan,Commercial,True,Medium,8000,True,True,2,True
+1787,Vivaan Bhosale,33,Hinjewadi,Residential,False,High,8000,False,True,17,False
+8025,Madhuri Soni,57,Hinjewadi,Residential,True,High,5000,True,True,26,False
+3344,Aditya Sharma,33,Pune,Farm,False,High,8000,True,False,19,True
+4529,Krishna Chavan,44,Kothrud,Farm,False,Medium,500,True,False,10,False
+1476,Aisha Bhosale,57,Viman Nagar,Residential,False,Medium,5000,False,False,14,False
+9413,Madhuri Sharma,42,Aundh,Farm,False,High,500,False,True,24,True
+1146,Aarav Joshi,39,Hinjewadi,Commercial,False,Medium,8000,False,False,9,False
+2328,Sai Singh,36,Aundh,Commercial,True,Medium,5000,False,True,20,True
+7525,Rupal Kumar,43,Hadapsar,Commercial,True,Medium,5000,True,False,7,False
+4293,Shaurya Sharma,35,Viman Nagar,Commercial,False,Low,8000,True,True,16,True
+2340,Krishna Yadav,53,Kedgaon,Commercial,False,High,500,False,False,13,False
+5253,Aisha Reddy,31,Aundh,Residential,False,Medium,3000,True,True,24,True
+7586,Krishna Sharma,52,Aundh,Residential,True,High,3000,True,True,11,False
+8169,Pooja Bhosale,41,Shivajinagar,Farm,True,Medium,3000,True,True,24,True
+1234,Krishna Patil,56,Aundh,Commercial,True,High,1500,False,True,4,True
+3766,Reyansh Sharma,37,Kedgaon,Residential,False,Medium,3000,False,False,20,True
+2206,Aarav Soni,49,Pune,Farm,True,Medium,5000,True,True,22,True
+2903,Riya Reddy,25,Aundh,Commercial,True,Low,5000,True,False,18,False
+6238,Rupal Deshmukh,59,Kothrud,Farm,True,High,3000,False,True,4,False
+7433,Aisha Shetty,48,Kothrud,Commercial,True,Medium,8000,True,True,18,False
+2388,Aditya Verma,31,Hadapsar,Commercial,False,High,1500,True,True,4,False
+8209,Ravi Joshi,58,Hinjewadi,Farm,True,Low,1500,True,True,18,False
+4499,Nisha Chavan,32,Baner,Farm,False,Medium,500,True,True,15,False
+8743,Rupal Kumar,26,Kothrud,Farm,False,Low,8000,True,True,22,False
+4879,Aisha Sharma,38,Kothrud,Farm,False,Medium,3000,False,False,11,False
+8041,Pooja Joshi,31,Hadapsar,Residential,False,Low,5000,False,False,5,False
+7124,Vivaan Patil,35,Bavdhan,Residential,True,Medium,1500,False,False,19,False
+6573,Isha Pawar,59,Shivajinagar,Farm,True,Low,3000,True,False,16,True
+1093,Vivaan Jadhav,57,Baner,Residential,False,Low,3000,False,False,26,True
+6410,Nisha Reddy,27,Pune,Residential,False,Medium,500,True,True,13,True
+7504,Rupal Patil,27,Baner,Commercial,False,Low,500,True,True,25,False
+5072,Reyansh Verma,37,Shivajinagar,Farm,True,Low,500,True,False,7,True
+9299,Pooja Shetty,46,Shivajinagar,Residential,True,Medium,8000,False,True,10,True
+5062,Aisha Shetty,39,Kothrud,Residential,False,High,5000,False,True,13,True
+8327,Aisha Reddy,28,Bavdhan,Residential,True,Medium,1500,True,True,4,True
+1977,Nisha Mehta,46,Hinjewadi,Commercial,False,Medium,500,False,False,8,True
+7192,Aarav Singh,50,Kedgaon,Commercial,True,Medium,1500,False,True,12,False
+3086,Shaurya Patil,43,Pune,Residential,False,Low,3000,False,False,3,False
+6536,Nisha Shetty,38,Kedgaon,Residential,True,Low,3000,True,False,30,False
+6488,Yash Soni,36,Aundh,Commercial,False,High,8000,False,True,23,False
+7275,Arjun Shetty,47,Hadapsar,Residential,True,High,1500,False,False,9,False
+9845,Nisha Reddy,28,Aundh,Residential,True,Low,8000,True,False,24,True
+6766,Riya Joshi,32,Baner,Farm,True,Low,8000,False,False,29,True
+3148,Ananya Shetty,49,Viman Nagar,Commercial,False,High,3000,False,True,5,True
+7336,Tanya Kumar,30,Hinjewadi,Residential,True,High,8000,False,False,22,True
+6404,Ravi Patil,30,Hinjewadi,Farm,False,Low,5000,True,True,8,True
+1174,Krishna Yadav,43,Viman Nagar,Residential,True,Medium,500,True,False,21,False
+9949,Nisha Sharma,32,Baner,Residential,False,Medium,8000,True,True,19,False
+1260,Madhuri Mehta,40,Viman Nagar,Farm,False,Low,8000,False,True,12,True
+2779,Yash Patil,51,Viman Nagar,Farm,True,Low,5000,True,True,1,True
+1642,Nisha Shetty,44,Hinjewadi,Farm,True,Low,1500,True,True,12,True
+6955,Riya Kulkarni,52,Aundh,Commercial,True,Medium,1500,True,False,17,False
+9121,Riya Chavan,54,Hadapsar,Residential,True,Medium,3000,True,True,26,True
+7535,Krishna Naik,44,Baner,Farm,False,Low,1500,True,False,8,False
+7737,Sai Verma,37,Bavdhan,Commercial,False,Medium,5000,False,True,7,False
+4967,Shruti Joshi,45,Kothrud,Farm,False,High,500,False,True,30,False
+3616,Madhuri Soni,35,Kothrud,Farm,False,High,500,True,False,15,True
+9985,Pooja Reddy,52,Baner,Farm,True,Low,500,False,False,8,False
+1521,Shaurya Thakur,51,Kothrud,Residential,False,Low,1500,False,False,18,True
+6310,Isha Kumar,52,Bavdhan,Farm,False,Medium,8000,True,False,29,True
+1644,Sai Joshi,28,Baner,Farm,False,Low,1500,False,False,12,False
+9062,Madhuri Naik,32,Hadapsar,Commercial,True,Low,3000,False,True,6,True
+6923,Ananya Shetty,34,Hinjewadi,Farm,True,Medium,500,True,False,10,False
+2434,Krishna Mehta,40,Kothrud,Commercial,False,High,5000,True,False,13,True
+2357,Krishna Kulkarni,60,Viman Nagar,Commercial,False,Low,5000,False,True,20,False
+5352,Sai Naik,58,Aundh,Residential,True,High,3000,False,False,11,True
+9804,Ananya Verma,59,Kedgaon,Farm,True,Low,8000,False,False,21,False
+3759,Sai Kumar,25,Pune,Residential,True,Medium,8000,False,True,20,True
+5684,Ravi Chavan,56,Hadapsar,Residential,True,Low,3000,False,False,28,False
+4689,Sai Gupta,50,Pune,Commercial,True,Medium,8000,False,True,4,True
+7214,Vivaan Singh,47,Viman Nagar,Farm,False,Medium,500,True,True,1,True
+5399,Aisha Mehta,58,Kedgaon,Residential,True,High,5000,False,True,16,False
+7041,Madhuri Thakur,25,Kothrud,Residential,True,Medium,3000,True,False,28,False
+3902,Krishna Reddy,50,Baner,Commercial,False,Medium,5000,False,False,19,True
+5692,Vivaan Yadav,44,Hinjewadi,Commercial,False,Low,1500,False,False,15,False
+2889,Aarav Thakur,44,Baner,Farm,True,Low,5000,False,False,15,False
+2765,Nisha Singh,39,Hadapsar,Residential,False,High,1500,False,False,15,True
+7070,Aarav Verma,31,Kothrud,Commercial,False,Low,1500,False,True,30,True
+8669,Aarav Chavan,39,Viman Nagar,Farm,True,Medium,500,False,False,14,True
+1072,Riya Joshi,28,Viman Nagar,Commercial,True,Medium,3000,False,False,11,True
+4264,Arjun Sharma,48,Baner,Commercial,True,Medium,8000,False,True,28,False
+1848,Pooja Joshi,56,Kothrud,Commercial,True,Low,500,False,True,6,False
+8126,Krishna Deshmukh,59,Bavdhan,Farm,True,High,500,False,True,5,False
+9844,Shaurya Pawar,54,Aundh,Farm,False,High,3000,False,False,19,False
+8934,Aarav Jadhav,53,Aundh,Farm,True,Low,3000,True,True,16,True
+5914,Ananya Pawar,29,Kothrud,Farm,False,Low,5000,True,True,22,True
+2006,Isha Yadav,41,Aundh,Residential,False,Low,5000,False,False,11,False
+7570,Shaurya Joshi,56,Viman Nagar,Commercial,False,Medium,3000,True,False,13,True
+7334,Pooja Patil,50,Hadapsar,Residential,True,Low,1500,True,True,13,False
+8910,Yash Reddy,28,Hinjewadi,Commercial,False,High,1500,True,False,14,False
+8970,Aarav Bhosale,35,Shivajinagar,Commercial,False,High,5000,True,False,23,True
+4618,Sai Deshmukh,31,Bavdhan,Commercial,False,Medium,1500,True,True,27,False
+9243,Krishna Bhosale,48,Bavdhan,Residential,False,Medium,500,True,True,17,True
+5986,Madhuri Patil,31,Kedgaon,Farm,True,Low,500,True,True,30,False
+6868,Pooja Joshi,25,Kedgaon,Commercial,False,Low,8000,True,False,11,True
+8576,Sai Chavan,32,Aundh,Commercial,True,High,500,True,True,6,False
+4202,Vivaan Patil,60,Pune,Commercial,False,Low,1500,False,False,15,False
+2479,Sai Mehta,25,Hadapsar,Farm,True,Medium,8000,False,False,14,False
+1177,Reyansh Thakur,37,Aundh,Commercial,False,Low,500,False,True,24,True
+2629,Reyansh Yadav,38,Kothrud,Farm,True,Low,3000,True,False,11,True
+6225,Pooja Verma,59,Baner,Commercial,False,High,3000,False,True,17,False
+5106,Aarav Chavan,51,Baner,Farm,False,High,8000,False,False,1,True
+2664,Aditya Kulkarni,26,Aundh,Farm,True,Low,3000,False,False,20,False
+9102,Krishna Bhosale,32,Kothrud,Farm,True,Low,1500,False,False,5,True
+3417,Krishna Pawar,32,Hinjewadi,Residential,True,Low,1500,True,True,5,True
+8297,Sai Verma,54,Kothrud,Commercial,False,Medium,500,False,False,18,True
+3924,Vivaan Gupta,55,Hadapsar,Farm,False,High,5000,False,True,28,True
+8240,Rupal Singh,58,Hinjewadi,Residential,True,High,3000,False,True,6,False
+5536,Ananya Sharma,29,Hadapsar,Commercial,True,High,5000,False,False,10,True
+2118,Shaurya Jadhav,25,Bavdhan,Residential,False,High,5000,False,False,26,False
+7741,Sai Reddy,37,Hadapsar,Commercial,False,Low,5000,True,True,5,True
+8998,Aarav Bhosale,39,Aundh,Residential,False,Low,5000,False,False,24,True
+9050,Rupal Deshmukh,35,Hadapsar,Commercial,True,Medium,500,False,False,6,True
+9421,Sai Kumar,42,Shivajinagar,Residential,False,High,3000,True,False,18,True
+4735,Aarav Shetty,29,Viman Nagar,Farm,False,High,8000,False,True,15,True
+9157,Yash Joshi,54,Hadapsar,Residential,False,High,1500,True,False,6,True
+6284,Rupal Thakur,53,Pune,Commercial,True,Medium,5000,False,True,22,False
+5529,Aisha Singh,46,Shivajinagar,Farm,True,High,1500,True,True,25,True
+9022,Krishna Yadav,40,Hinjewadi,Farm,False,Medium,1500,False,True,6,False
+7956,Riya Gupta,52,Hadapsar,Residential,True,High,3000,True,False,3,True
+2833,Riya Gupta,50,Viman Nagar,Residential,True,Medium,5000,True,False,24,False
+1120,Ravi Mehta,57,Hinjewadi,Farm,True,Medium,500,False,False,6,False
+8027,Aditya Jadhav,42,Kedgaon,Commercial,True,Low,5000,False,False,7,False
+9419,Nisha Thakur,58,Hinjewadi,Residential,False,Low,5000,True,True,9,False
+7829,Isha Joshi,56,Viman Nagar,Commercial,False,Low,1500,True,True,24,True
+5341,Nisha Kulkarni,37,Baner,Farm,False,High,3000,False,False,7,True
+3231,Aditya Patil,44,Kedgaon,Residential,True,High,500,False,False,13,False
+6417,Sai Patil,40,Viman Nagar,Farm,True,Low,3000,True,False,11,True
+1211,Riya Joshi,47,Baner,Commercial,False,Low,1500,True,True,9,True
+7413,Reyansh Bhosale,54,Aundh,Farm,False,High,1500,True,False,25,False
+7028,Shaurya Bhosale,31,Hadapsar,Commercial,False,High,500,False,True,19,True
+1067,Arjun Shetty,45,Kedgaon,Farm,False,Low,500,True,True,17,False
+5823,Krishna Singh,31,Hinjewadi,Farm,False,High,500,True,False,19,False
+2422,Arjun Patil,49,Pune,Farm,True,High,5000,False,True,11,True
+9672,Madhuri Bhosale,26,Baner,Commercial,True,High,3000,True,False,19,True
+7060,Nisha Pawar,35,Viman Nagar,Residential,True,Low,3000,False,True,15,True
+9339,Rupal Joshi,29,Shivajinagar,Residential,True,Low,5000,False,True,20,True
+5850,Tanya Bhosale,45,Pune,Residential,True,High,500,True,False,18,False
+1707,Yash Patil,31,Aundh,Residential,True,Medium,500,False,True,28,True
+1067,Arjun Chavan,28,Kedgaon,Farm,False,Medium,3000,True,False,9,True
+9899,Aisha Thakur,35,Aundh,Farm,False,Medium,8000,False,False,27,False
+2515,Arjun Sharma,44,Baner,Residential,False,Low,500,False,False,26,True
+2294,Krishna Kumar,47,Baner,Residential,False,High,1500,False,True,28,False
+6657,Vivaan Sharma,59,Kedgaon,Commercial,False,Medium,3000,False,True,9,True
+2088,Reyansh Singh,30,Aundh,Farm,False,High,1500,False,False,14,False
+9556,Reyansh Reddy,42,Bavdhan,Commercial,False,Low,500,True,False,2,False
+8692,Vivaan Mehta,35,Kothrud,Residential,True,Low,3000,True,False,8,False
+7611,Nisha Kulkarni,26,Shivajinagar,Residential,True,High,500,True,True,29,False
+5270,Rupal Deshmukh,38,Bavdhan,Farm,False,Low,5000,True,True,13,False
+6934,Isha Bhosale,50,Hinjewadi,Farm,False,Low,5000,False,False,21,False
+2416,Arjun Yadav,56,Hadapsar,Farm,False,Low,5000,True,False,7,False
+5183,Riya Deshmukh,31,Pune,Farm,True,High,8000,False,False,1,True
+1631,Shaurya Chavan,42,Aundh,Farm,False,Medium,1500,False,True,5,True
+1685,Pooja Pawar,58,Kothrud,Commercial,False,Low,8000,True,True,29,False
+6713,Ravi Pawar,40,Kedgaon,Farm,True,Low,500,True,False,20,True
+5382,Madhuri Shetty,34,Shivajinagar,Farm,True,Low,5000,True,False,24,True
+5492,Riya Mehta,26,Hadapsar,Farm,False,Medium,1500,False,True,8,False
+9251,Ananya Mehta,31,Baner,Residential,True,Medium,500,True,True,25,False
+4028,Pooja Patil,38,Aundh,Commercial,True,High,3000,False,True,26,False
+2322,Pooja Singh,52,Aundh,Farm,False,Low,1500,True,True,17,False
+8805,Isha Yadav,38,Pune,Farm,True,Medium,3000,False,False,22,True
+4241,Aarav Singh,39,Kedgaon,Farm,False,Medium,1500,False,False,1,True
+7517,Shruti Deshmukh,40,Pune,Farm,False,Medium,1500,True,False,8,False
+7494,Arjun Gupta,33,Hadapsar,Farm,False,High,500,False,False,15,False
+7861,Tanya Pawar,40,Kedgaon,Residential,True,High,3000,True,True,13,True
+4599,Nisha Gupta,32,Hinjewadi,Farm,True,High,1500,False,True,1,True
+8895,Pooja Naik,56,Kedgaon,Commercial,True,Low,5000,False,True,4,False
+7044,Ananya Gupta,58,Kothrud,Residential,False,High,5000,False,True,7,True
+4468,Tanya Verma,27,Hadapsar,Commercial,False,High,8000,False,False,14,False
+4892,Madhuri Patil,37,Kedgaon,Farm,True,Low,5000,False,False,14,False
+5347,Vivaan Yadav,52,Viman Nagar,Farm,True,Medium,3000,False,False,7,True
+4759,Rupal Shetty,31,Kedgaon,Residential,False,High,8000,False,True,29,True
+3486,Shruti Joshi,47,Bavdhan,Commercial,False,Low,5000,False,True,12,True
+7565,Shaurya Soni,49,Baner,Residential,True,Medium,1500,True,True,30,False
+1314,Rupal Patil,39,Kothrud,Residential,True,Low,8000,True,True,17,False
+7337,Madhuri Singh,37,Shivajinagar,Residential,True,Low,5000,False,False,9,True
+3542,Shaurya Naik,56,Bavdhan,Farm,True,Low,8000,True,False,2,False
+3712,Shaurya Bhosale,32,Aundh,Residential,True,Low,5000,False,True,27,True
+3065,Yash Thakur,39,Bavdhan,Commercial,True,Medium,3000,True,True,12,True
+1351,Isha Verma,45,Shivajinagar,Residential,True,Low,3000,True,True,14,False
+3595,Arjun Pawar,42,Pune,Farm,True,Low,5000,False,False,13,True
+3227,Yash Verma,47,Kedgaon,Commercial,True,High,1500,False,True,30,True
+8633,Tanya Naik,35,Kothrud,Commercial,False,Medium,8000,False,True,16,False
+5447,Nisha Reddy,36,Shivajinagar,Commercial,False,Low,3000,False,True,24,True
+5398,Riya Gupta,43,Viman Nagar,Commercial,True,Low,3000,False,True,10,False
+6231,Ananya Patil,46,Pune,Farm,False,High,8000,False,True,1,True
+9800,Aisha Verma,30,Baner,Residential,True,Medium,3000,True,False,27,False
+6040,Shruti Kulkarni,33,Kothrud,Residential,True,High,5000,True,True,1,True
+4934,Aditya Deshmukh,50,Aundh,Commercial,False,High,500,False,False,29,True
+3024,Tanya Yadav,25,Pune,Farm,False,Low,3000,True,False,23,False
+5381,Ravi Reddy,32,Aundh,Commercial,False,High,1500,False,True,17,False
+5668,Aisha Thakur,44,Viman Nagar,Residential,True,Low,500,True,False,3,True
+5717,Isha Naik,48,Baner,Farm,True,Medium,1500,False,False,20,False
+9639,Sai Naik,50,Bavdhan,Residential,True,High,3000,True,False,22,True
+9771,Shruti Jadhav,35,Baner,Commercial,False,Medium,8000,False,False,4,False
+7505,Rupal Jadhav,54,Bavdhan,Residential,True,High,3000,False,True,10,True
+4693,Yash Joshi,35,Bavdhan,Farm,True,Medium,3000,False,True,13,True
+5467,Vivaan Kulkarni,55,Baner,Commercial,False,Low,8000,True,True,14,False
+4312,Isha Thakur,32,Viman Nagar,Residential,True,High,500,True,False,19,False
+9766,Krishna Reddy,30,Kedgaon,Residential,True,High,8000,True,False,18,True
+8815,Shruti Kulkarni,59,Hinjewadi,Farm,False,Medium,8000,False,False,26,False
+1861,Sai Deshmukh,38,Shivajinagar,Farm,False,Low,500,False,False,3,True
+7941,Sai Sharma,53,Baner,Residential,True,Medium,5000,False,False,10,False
+1190,Reyansh Naik,53,Kothrud,Commercial,False,Low,1500,True,False,29,False
+5008,Reyansh Kulkarni,44,Viman Nagar,Farm,True,Low,8000,False,True,17,True
+2811,Arjun Mehta,45,Shivajinagar,Residential,False,Low,3000,False,True,16,True
+4471,Ravi Shetty,54,Hadapsar,Farm,False,Low,1500,True,False,21,True
+2191,Ravi Naik,36,Bavdhan,Commercial,True,High,8000,True,True,10,False
+8070,Shaurya Joshi,51,Baner,Residential,False,High,500,False,False,3,False
+9058,Sai Thakur,60,Hinjewadi,Residential,False,Low,8000,True,True,27,False
+4215,Pooja Singh,25,Kedgaon,Farm,False,Medium,1500,False,True,21,False
+3910,Rupal Verma,35,Pune,Farm,True,High,8000,True,True,16,False
+6303,Ananya Bhosale,60,Shivajinagar,Farm,True,Low,1500,False,False,22,False
+8889,Arjun Jadhav,45,Hinjewadi,Commercial,True,Low,3000,True,False,8,False
+9351,Aisha Sharma,42,Hinjewadi,Farm,True,High,3000,False,False,29,True
+3920,Arjun Singh,30,Shivajinagar,Residential,True,High,1500,False,False,11,True
+8089,Madhuri Sharma,36,Kedgaon,Commercial,True,High,500,True,True,15,True
+7842,Ananya Gupta,41,Baner,Residential,False,Low,500,True,False,15,False
+7891,Rupal Patil,34,Baner,Residential,False,Low,3000,True,True,6,True
+3212,Shaurya Reddy,49,Baner,Commercial,True,Medium,5000,False,False,13,True
+6724,Aisha Deshmukh,49,Hadapsar,Commercial,True,High,3000,True,True,15,True
+1614,Reyansh Bhosale,40,Baner,Farm,False,High,500,True,False,15,False
+2670,Sai Jadhav,26,Hinjewadi,Residential,True,High,1500,False,False,27,True
+3342,Aditya Mehta,44,Baner,Commercial,False,High,1500,False,False,24,False
+4188,Krishna Verma,38,Kothrud,Residential,True,Medium,5000,True,True,29,True
+5143,Arjun Bhosale,38,Hadapsar,Commercial,True,High,500,False,False,4,False
+6738,Yash Jadhav,42,Aundh,Commercial,True,Low,1500,False,False,6,False
+3669,Shaurya Singh,29,Baner,Residential,True,High,8000,True,False,15,False
+6469,Reyansh Mehta,45,Aundh,Farm,False,Medium,3000,True,True,3,False
+8271,Sai Kumar,58,Kothrud,Commercial,True,Medium,1500,False,False,16,True
+3106,Nisha Gupta,52,Bavdhan,Farm,True,High,5000,True,False,10,True
+3928,Riya Reddy,27,Bavdhan,Farm,False,Low,5000,True,False,10,False
+1941,Shaurya Reddy,40,Aundh,Residential,False,Low,1500,True,False,6,True
+5506,Reyansh Kulkarni,46,Baner,Farm,False,High,8000,False,True,6,True
+9473,Nisha Mehta,35,Shivajinagar,Farm,True,Medium,8000,True,False,19,False
+5881,Shaurya Kulkarni,40,Kedgaon,Farm,True,High,5000,True,False,26,False
+4589,Aarav Yadav,26,Kedgaon,Residential,False,High,8000,False,True,8,True
+3597,Riya Reddy,41,Kedgaon,Residential,True,Low,8000,True,True,29,True
+4136,Pooja Verma,44,Hinjewadi,Commercial,False,High,1500,False,True,11,False
+9042,Pooja Verma,25,Kedgaon,Commercial,True,High,8000,True,True,9,False
+2555,Yash Kulkarni,34,Bavdhan,Residential,False,Low,3000,False,True,27,True
+8237,Pooja Singh,25,Aundh,Residential,True,Low,3000,True,False,5,True
+5692,Arjun Jadhav,58,Hinjewadi,Residential,True,Low,5000,False,True,29,False
+1168,Arjun Sharma,26,Baner,Farm,False,Medium,3000,True,False,5,False
+3581,Pooja Chavan,47,Shivajinagar,Residential,False,High,5000,True,False,25,True
+2822,Tanya Gupta,31,Hadapsar,Commercial,False,Medium,3000,False,True,8,True
+2097,Aditya Yadav,52,Kothrud,Commercial,False,Medium,8000,True,True,27,True
+7195,Arjun Naik,55,Kedgaon,Farm,False,Low,8000,False,True,16,False
+3665,Nisha Kulkarni,45,Shivajinagar,Farm,True,High,1500,False,False,1,False
+6446,Aisha Patil,49,Aundh,Commercial,False,High,5000,False,False,11,True
+6412,Vivaan Shetty,45,Shivajinagar,Commercial,True,Medium,3000,True,True,23,False
+4323,Aisha Shetty,45,Shivajinagar,Commercial,False,Low,8000,True,True,14,False
+2308,Reyansh Pawar,57,Kothrud,Commercial,False,High,3000,True,False,1,True
+7136,Shaurya Kumar,59,Bavdhan,Farm,False,Medium,8000,True,True,24,False
+5240,Aisha Kulkarni,37,Kedgaon,Commercial,False,High,3000,True,True,14,False
+8910,Krishna Kumar,58,Kedgaon,Commercial,True,High,1500,False,False,12,False
+5407,Ravi Sharma,54,Aundh,Residential,True,Medium,3000,False,True,6,True
+4672,Riya Jadhav,54,Bavdhan,Residential,False,High,8000,False,False,27,True
+2947,Vivaan Mehta,47,Shivajinagar,Commercial,False,Low,3000,True,True,6,True
+3411,Ananya Mehta,36,Baner,Residential,False,Low,500,True,True,8,True
+8042,Aditya Kulkarni,45,Hadapsar,Commercial,False,Medium,8000,True,False,9,False
+8102,Krishna Shetty,52,Pune,Farm,False,Medium,5000,True,False,4,True
+5081,Ananya Jadhav,26,Aundh,Residential,False,Medium,500,True,True,6,True
+6763,Tanya Pawar,27,Bavdhan,Commercial,True,High,5000,True,True,15,True
+4345,Shruti Yadav,40,Shivajinagar,Residential,True,Low,5000,True,True,27,True
+8623,Isha Naik,26,Kedgaon,Commercial,True,High,8000,False,True,27,False
+7983,Aisha Deshmukh,49,Hinjewadi,Farm,True,Medium,5000,True,False,23,True
+7904,Riya Deshmukh,47,Bavdhan,Residential,True,High,500,False,True,25,True
+5969,Aisha Shetty,48,Bavdhan,Residential,False,Low,5000,True,False,26,False
+5406,Riya Patil,44,Bavdhan,Farm,True,Low,8000,False,False,18,True
+2062,Aarav Reddy,30,Hinjewadi,Farm,True,High,5000,True,False,29,True
+2870,Arjun Thakur,38,Kothrud,Residential,False,Medium,3000,False,False,11,True
+6921,Rupal Verma,28,Hadapsar,Commercial,True,High,3000,False,True,30,True
+2317,Madhuri Yadav,46,Hinjewadi,Residential,False,Low,1500,False,True,24,True
+6495,Aarav Shetty,37,Aundh,Residential,True,Low,5000,True,False,25,True
+8323,Aarav Sharma,51,Baner,Commercial,False,High,500,False,True,25,True
+1556,Sai Kumar,51,Kothrud,Commercial,False,High,3000,False,False,30,True
+2883,Shruti Pawar,58,Shivajinagar,Farm,False,Low,1500,True,True,9,True
+7327,Aisha Sharma,36,Pune,Commercial,False,High,3000,True,True,19,True
+5012,Nisha Thakur,45,Baner,Residential,False,High,1500,False,False,21,False
+2006,Yash Gupta,27,Kedgaon,Farm,True,Medium,1500,False,False,12,False
+1491,Aarav Bhosale,37,Pune,Residential,True,High,5000,False,False,25,True
+4983,Nisha Reddy,45,Pune,Farm,False,Low,1500,False,False,15,False
+8126,Rupal Thakur,49,Baner,Commercial,True,High,3000,True,False,28,True
+1801,Reyansh Singh,54,Hadapsar,Farm,True,Medium,5000,True,True,30,False
+3745,Aditya Bhosale,37,Shivajinagar,Residential,False,Low,8000,True,False,3,True
+8112,Isha Singh,27,Hadapsar,Residential,False,Low,3000,False,False,27,True
+7009,Shaurya Patil,31,Hadapsar,Residential,True,Medium,500,True,False,27,False
+2175,Nisha Pawar,30,Kedgaon,Commercial,True,Medium,5000,True,True,17,True
+7616,Yash Joshi,44,Viman Nagar,Farm,False,Medium,8000,True,True,28,True
+1707,Krishna Sharma,39,Baner,Commercial,False,Low,5000,True,False,23,True
+5193,Yash Joshi,45,Kothrud,Farm,False,Low,8000,True,False,7,False
+5385,Shruti Chavan,37,Shivajinagar,Farm,False,Medium,1500,True,True,8,False
+5971,Krishna Soni,48,Baner,Residential,False,Medium,8000,False,True,23,False
+1745,Yash Naik,55,Kothrud,Farm,False,High,8000,True,False,10,False
+1158,Yash Pawar,37,Hinjewadi,Farm,False,Low,500,True,True,13,False
+1254,Yash Chavan,37,Aundh,Commercial,False,Low,500,False,True,8,False
+6517,Shruti Kumar,58,Hinjewadi,Farm,False,High,500,False,True,28,True
+6539,Krishna Kumar,40,Baner,Commercial,True,Medium,500,False,False,2,True
+2797,Vivaan Pawar,25,Hadapsar,Farm,False,High,3000,True,False,23,True
+2105,Nisha Singh,29,Hinjewadi,Farm,True,High,3000,False,True,28,True
+2895,Yash Joshi,58,Kedgaon,Commercial,True,High,1500,False,False,18,True
+8039,Pooja Gupta,43,Pune,Farm,False,High,1500,False,False,2,True
+2490,Krishna Sharma,52,Aundh,Farm,True,Medium,8000,True,False,14,False
+7666,Madhuri Shetty,31,Hinjewadi,Farm,False,Low,5000,False,False,6,False
+2037,Rupal Singh,28,Hinjewadi,Residential,True,Low,1500,False,False,4,True
+4813,Arjun Kulkarni,28,Kedgaon,Residential,False,High,500,False,False,25,False
+7108,Riya Singh,42,Hinjewadi,Farm,False,Medium,500,True,False,5,True
+7627,Yash Singh,43,Shivajinagar,Commercial,True,High,5000,True,True,15,True
+5628,Yash Sharma,46,Kedgaon,Commercial,True,Medium,1500,False,False,18,False
+8189,Tanya Soni,34,Pune,Commercial,True,Medium,1500,True,False,7,True
+9652,Shaurya Bhosale,54,Bavdhan,Commercial,False,Medium,8000,False,True,3,True
+1144,Isha Patil,36,Kedgaon,Farm,False,Medium,1500,True,False,10,True
+8758,Sai Kumar,47,Kedgaon,Residential,False,High,500,True,True,29,False
+3126,Pooja Kumar,29,Hinjewadi,Commercial,False,Low,3000,False,True,3,True
+4598,Nisha Gupta,56,Bavdhan,Residential,False,High,5000,True,False,26,False
+1414,Vivaan Reddy,38,Kedgaon,Residential,False,Low,5000,True,True,25,False
+5949,Ravi Shetty,31,Hinjewadi,Commercial,False,High,3000,True,False,10,False
+6984,Rupal Gupta,59,Pune,Commercial,False,Low,1500,True,False,3,True
+7519,Aisha Sharma,34,Viman Nagar,Farm,True,High,500,False,True,26,True
+8755,Yash Singh,25,Kedgaon,Residential,False,High,8000,True,True,2,True
+4572,Tanya Kulkarni,39,Kothrud,Commercial,True,Low,3000,True,True,2,False
+2542,Aditya Jadhav,60,Kedgaon,Residential,False,Medium,1500,False,False,8,False
+3687,Sai Chavan,25,Aundh,Farm,False,Low,3000,True,False,17,True
+6418,Isha Naik,44,Kedgaon,Farm,False,Low,5000,True,False,2,True
+6485,Shaurya Thakur,45,Viman Nagar,Farm,False,Low,3000,False,False,14,True
+8158,Yash Soni,33,Aundh,Residential,False,Medium,3000,False,True,29,False
+6435,Aarav Kumar,38,Viman Nagar,Residential,True,Medium,5000,False,False,11,False
+2944,Nisha Thakur,54,Pune,Farm,True,Low,500,True,False,10,False
+3499,Riya Sharma,44,Aundh,Commercial,True,Medium,3000,True,False,3,False
+6931,Nisha Kumar,31,Viman Nagar,Residential,True,Low,3000,True,False,9,False
+1117,Yash Soni,50,Aundh,Farm,True,Low,500,False,True,2,False
+5055,Reyansh Kumar,30,Kedgaon,Farm,True,High,5000,False,True,12,True
+2504,Ananya Kulkarni,42,Kedgaon,Commercial,True,Medium,3000,True,False,12,True
+1093,Ananya Pawar,48,Hinjewadi,Residential,True,Medium,1500,True,False,30,True
+7687,Krishna Gupta,45,Baner,Farm,True,High,5000,False,True,5,False
+9616,Isha Gupta,44,Pune,Commercial,True,Medium,500,False,False,12,False
+8350,Nisha Mehta,45,Hinjewadi,Commercial,False,High,500,False,True,19,True
+3258,Krishna Soni,27,Baner,Residential,False,Medium,3000,True,True,6,True
+8655,Shaurya Verma,37,Hinjewadi,Farm,False,Medium,3000,True,False,7,False
+2619,Shruti Bhosale,42,Shivajinagar,Farm,True,Medium,3000,False,True,13,True
+6084,Rupal Pawar,39,Hinjewadi,Farm,True,High,1500,True,True,22,False
+5866,Pooja Jadhav,51,Viman Nagar,Residential,True,Medium,500,True,True,25,True
+8329,Tanya Soni,46,Kothrud,Farm,True,High,8000,False,True,30,True
+5662,Arjun Kumar,51,Hadapsar,Residential,False,Medium,8000,False,True,20,True
+7041,Shaurya Pawar,31,Kedgaon,Farm,False,High,5000,True,False,24,True
+4945,Krishna Kumar,52,Baner,Residential,False,Medium,5000,True,True,6,True
+5728,Shruti Naik,30,Pune,Farm,False,Low,3000,False,True,19,True
+2634,Aarav Deshmukh,36,Hinjewadi,Farm,True,Medium,1500,True,False,19,True
+7044,Sai Soni,27,Hadapsar,Residential,False,Low,500,True,False,10,False
+4780,Reyansh Chavan,56,Aundh,Farm,True,Medium,8000,False,True,23,False
+6605,Ananya Jadhav,56,Shivajinagar,Residential,True,Medium,5000,False,True,11,True
+3879,Tanya Jadhav,52,Pune,Residential,False,Low,8000,False,True,9,True
+8123,Reyansh Jadhav,46,Kedgaon,Commercial,False,Medium,1500,False,True,27,False
+7059,Reyansh Reddy,54,Baner,Residential,False,Medium,3000,False,False,15,False
+8299,Tanya Shetty,28,Hadapsar,Farm,False,High,8000,True,True,12,True
+6169,Shruti Shetty,36,Bavdhan,Commercial,True,Medium,8000,True,False,9,False
+8453,Riya Jadhav,40,Aundh,Commercial,False,High,3000,False,False,12,True
+3313,Tanya Sharma,37,Pune,Commercial,False,Low,500,False,False,29,True
+7856,Ravi Sharma,50,Pune,Farm,True,Low,1500,False,False,20,False
+7142,Madhuri Patil,57,Aundh,Residential,False,Medium,8000,True,True,24,True
+2495,Aditya Chavan,59,Viman Nagar,Commercial,True,High,8000,True,True,11,False
+7013,Nisha Sharma,29,Baner,Commercial,True,Low,5000,False,False,25,True
+2939,Pooja Reddy,39,Viman Nagar,Residential,True,Low,1500,False,True,29,False
+5126,Vivaan Gupta,31,Shivajinagar,Residential,True,Medium,1500,True,False,25,True
+6660,Vivaan Joshi,36,Shivajinagar,Residential,True,Low,5000,True,False,18,False
+5830,Ananya Shetty,56,Kedgaon,Residential,True,Low,1500,True,True,22,True
+1075,Tanya Soni,59,Aundh,Residential,True,High,5000,False,False,27,False
+9243,Reyansh Deshmukh,38,Kedgaon,Residential,False,Low,3000,False,True,10,False
+2829,Shaurya Thakur,60,Pune,Commercial,False,Low,3000,False,False,4,False
+3478,Shaurya Thakur,40,Viman Nagar,Farm,True,Medium,8000,True,True,12,True
+6516,Tanya Patil,51,Hadapsar,Commercial,False,High,500,False,True,19,False
+8998,Pooja Gupta,30,Baner,Commercial,True,High,5000,True,True,4,True
+2169,Vivaan Chavan,41,Hinjewadi,Farm,False,Medium,8000,False,True,13,True
+8596,Sai Reddy,33,Kedgaon,Farm,True,Medium,1500,True,False,1,True
+3267,Ananya Reddy,41,Aundh,Farm,False,Medium,1500,False,True,1,True
+1000,Aarav Thakur,30,Bavdhan,Commercial,True,Low,500,False,False,20,True
+8851,Ravi Pawar,59,Kedgaon,Farm,False,Low,500,False,False,12,False
+9191,Sai Bhosale,60,Kedgaon,Residential,True,Medium,1500,True,False,24,True
+8489,Ananya Yadav,28,Pune,Commercial,False,Low,3000,True,False,8,False
+6638,Aarav Shetty,55,Bavdhan,Commercial,True,Medium,8000,False,True,19,True
+4326,Shaurya Mehta,34,Baner,Commercial,True,Low,3000,False,False,14,False
+4822,Aisha Shetty,49,Kothrud,Commercial,False,Low,500,True,True,25,False
+6734,Aisha Jadhav,50,Bavdhan,Residential,False,Low,5000,False,True,30,False
+1040,Rupal Sharma,54,Shivajinagar,Farm,False,Medium,500,True,True,8,False
+6018,Arjun Thakur,44,Kedgaon,Farm,True,Medium,5000,False,False,7,True
+2802,Aarav Joshi,57,Kothrud,Commercial,True,Medium,8000,False,True,24,True
+8112,Aisha Pawar,38,Kedgaon,Commercial,False,High,8000,False,True,16,False
+5141,Yash Patil,51,Baner,Farm,False,High,3000,False,True,27,False
+7111,Shaurya Singh,55,Bavdhan,Farm,True,High,1500,True,True,14,False
+3035,Riya Pawar,49,Viman Nagar,Farm,False,High,8000,True,False,4,True
+1295,Rupal Bhosale,27,Kothrud,Residential,False,Low,1500,True,False,8,False
+5577,Rupal Gupta,58,Pune,Farm,False,High,1500,False,False,8,False
+9428,Isha Verma,43,Baner,Farm,True,Medium,3000,False,False,4,True
+1750,Madhuri Thakur,34,Hadapsar,Farm,False,Medium,5000,True,True,13,False
+8606,Nisha Naik,37,Pune,Residential,True,Low,8000,True,True,16,False
+1687,Ravi Mehta,43,Hadapsar,Farm,False,Low,500,True,True,6,True
+3554,Tanya Yadav,49,Pune,Farm,True,Medium,3000,False,False,28,True
+9359,Aditya Joshi,48,Hadapsar,Commercial,False,Medium,1500,False,True,21,False
+9368,Shaurya Shetty,46,Aundh,Farm,False,Medium,500,True,False,13,False
+7804,Isha Verma,36,Hinjewadi,Commercial,True,High,500,True,False,1,True
+4368,Tanya Thakur,26,Kedgaon,Farm,True,Low,1500,True,False,28,True
+9645,Sai Shetty,31,Bavdhan,Farm,False,High,8000,False,False,13,True
+7760,Yash Gupta,38,Viman Nagar,Commercial,True,High,3000,True,False,19,True
+7897,Yash Gupta,45,Hadapsar,Residential,True,Medium,3000,True,True,1,False
+9385,Tanya Verma,37,Bavdhan,Commercial,False,High,3000,True,True,24,False
+5563,Shaurya Bhosale,31,Hinjewadi,Commercial,True,Medium,500,True,False,26,False
+6497,Isha Mehta,50,Shivajinagar,Commercial,True,Medium,500,True,True,13,False
+1458,Yash Jadhav,41,Hadapsar,Residential,False,High,8000,False,True,29,True
+4783,Ravi Patil,41,Pune,Residential,False,Medium,5000,True,True,16,True
+9410,Pooja Naik,37,Aundh,Commercial,True,Low,500,False,False,27,True
+1833,Aditya Reddy,56,Shivajinagar,Residential,True,Medium,3000,False,True,29,False
+4280,Isha Thakur,41,Hinjewadi,Residential,True,Medium,8000,True,True,6,True
+9075,Aditya Singh,47,Kothrud,Commercial,False,High,1500,False,True,12,True
+3789,Aisha Joshi,41,Shivajinagar,Commercial,False,Low,5000,False,True,7,True
+4078,Tanya Deshmukh,49,Kedgaon,Residential,False,Medium,500,False,False,7,False
+8226,Riya Pawar,43,Kothrud,Farm,False,Low,3000,True,True,11,True
+6355,Vivaan Deshmukh,35,Viman Nagar,Farm,True,High,3000,False,False,26,True
+2821,Reyansh Yadav,39,Shivajinagar,Farm,True,Low,5000,True,False,10,True
+2149,Aditya Kumar,45,Aundh,Farm,True,Medium,3000,False,False,7,True
+8072,Madhuri Shetty,59,Kedgaon,Commercial,True,Medium,3000,False,False,27,True
+5395,Shaurya Shetty,60,Kothrud,Commercial,True,Medium,1500,True,True,10,True
+3618,Yash Mehta,53,Hadapsar,Farm,True,High,5000,True,True,21,True
+7037,Ravi Kumar,27,Shivajinagar,Residential,False,High,1500,True,True,24,False
+3479,Ananya Pawar,42,Kedgaon,Commercial,False,Low,1500,False,False,6,True
+3387,Arjun Joshi,60,Kedgaon,Farm,False,High,1500,False,False,2,True
+4855,Riya Bhosale,35,Bavdhan,Residential,False,Low,500,True,False,17,False
+2194,Pooja Kumar,32,Pune,Residential,True,Low,1500,True,False,18,False
+8941,Tanya Patil,36,Hinjewadi,Residential,True,High,5000,False,True,20,True
+9019,Madhuri Yadav,54,Viman Nagar,Commercial,False,Medium,5000,True,True,28,False
+9696,Sai Sharma,38,Bavdhan,Commercial,False,Medium,8000,False,False,30,True
+5236,Sai Yadav,25,Bavdhan,Commercial,True,High,8000,True,True,12,False
+6027,Reyansh Jadhav,35,Kothrud,Commercial,False,Low,8000,True,True,22,True
+6443,Vivaan Soni,35,Baner,Farm,True,Low,3000,False,True,22,False
+4784,Shaurya Bhosale,41,Viman Nagar,Farm,True,High,8000,False,True,7,False
+8461,Isha Pawar,41,Kedgaon,Residential,True,High,3000,False,True,1,True
+1909,Pooja Yadav,59,Hadapsar,Residential,True,Medium,3000,True,False,22,True
+3133,Nisha Gupta,58,Bavdhan,Commercial,True,Medium,1500,False,True,10,True
+5795,Tanya Singh,34,Kedgaon,Farm,False,Medium,8000,False,True,3,True
+1192,Shruti Singh,32,Bavdhan,Commercial,True,Medium,1500,True,True,15,False
+5264,Ravi Shetty,30,Kothrud,Farm,True,High,3000,False,False,27,True
+5566,Aditya Shetty,54,Hadapsar,Commercial,False,High,3000,False,False,8,True
+6794,Nisha Jadhav,38,Shivajinagar,Commercial,True,Low,500,False,False,21,False
+1710,Shaurya Patil,45,Kothrud,Commercial,False,High,3000,True,False,10,False
+3397,Ananya Chavan,31,Hinjewadi,Residential,True,Medium,1500,True,False,23,False
+2713,Arjun Patil,54,Baner,Farm,False,High,8000,True,False,4,False
+1712,Rupal Naik,37,Aundh,Residential,False,Medium,5000,True,False,8,True
+7086,Aditya Deshmukh,58,Baner,Farm,True,High,5000,False,False,27,True
+6473,Shaurya Joshi,40,Kedgaon,Farm,False,Medium,5000,True,False,19,True
+2650,Isha Gupta,53,Kothrud,Commercial,False,Medium,5000,True,False,25,True
+7204,Rupal Soni,44,Hinjewadi,Farm,False,Medium,5000,True,False,26,True
+8577,Vivaan Thakur,36,Shivajinagar,Farm,True,Low,500,False,True,26,False
+5562,Isha Sharma,35,Kothrud,Commercial,True,High,1500,True,True,6,True
+8472,Shruti Kumar,42,Aundh,Residential,False,Medium,3000,True,False,20,False
+1685,Reyansh Pawar,41,Bavdhan,Commercial,False,Medium,8000,True,True,8,False
+3111,Reyansh Kulkarni,53,Pune,Residential,True,Low,1500,True,True,2,True
+8260,Shruti Bhosale,47,Viman Nagar,Farm,False,High,3000,True,False,27,False
+5177,Isha Kulkarni,52,Hadapsar,Farm,True,Medium,8000,True,True,6,True
+7568,Pooja Deshmukh,27,Hinjewadi,Farm,False,Medium,5000,False,True,7,False
+6756,Madhuri Reddy,46,Viman Nagar,Farm,False,Low,8000,True,True,29,True
+4397,Vivaan Chavan,26,Shivajinagar,Farm,True,Medium,5000,True,True,14,True
+2770,Aditya Deshmukh,27,Shivajinagar,Residential,True,Medium,500,True,True,12,False
+9146,Shruti Joshi,34,Shivajinagar,Residential,True,Low,500,False,False,20,True
+7394,Pooja Joshi,59,Bavdhan,Commercial,True,High,3000,False,False,7,False
+9292,Ananya Yadav,43,Baner,Farm,False,Medium,8000,False,False,5,True
+8092,Aditya Pawar,51,Bavdhan,Farm,True,Medium,500,True,False,15,False
+7504,Ravi Patil,36,Hinjewadi,Commercial,False,Medium,3000,False,False,19,True
+7465,Aditya Yadav,40,Hadapsar,Commercial,False,Low,5000,False,False,28,False
+9004,Reyansh Gupta,45,Aundh,Farm,False,Low,500,False,False,30,True
+4507,Riya Kumar,37,Kothrud,Commercial,False,Low,1500,True,True,9,True
+2618,Isha Kumar,47,Hadapsar,Residential,False,Medium,5000,False,True,23,False
+6690,Madhuri Deshmukh,57,Viman Nagar,Commercial,True,High,5000,True,True,30,True
+6323,Pooja Patil,56,Shivajinagar,Residential,False,Medium,1500,True,False,27,True
+4039,Nisha Naik,29,Pune,Residential,False,Low,1500,False,False,5,False
+5467,Shaurya Thakur,38,Shivajinagar,Farm,True,Low,5000,True,True,18,True
+6446,Vivaan Kulkarni,28,Hinjewadi,Residential,True,Low,5000,False,True,8,False
+8628,Yash Kulkarni,59,Kedgaon,Residential,True,Medium,500,True,False,7,False
+4835,Yash Shetty,39,Bavdhan,Commercial,False,Medium,3000,False,True,23,False
+4506,Sai Reddy,30,Kothrud,Commercial,True,Medium,5000,True,False,14,True
+6875,Ananya Verma,33,Viman Nagar,Farm,True,Medium,1500,True,False,20,True
+9715,Reyansh Reddy,34,Bavdhan,Commercial,True,Medium,8000,False,False,19,True
+7751,Yash Thakur,31,Pune,Farm,True,High,8000,True,True,25,True
+6484,Aditya Patil,53,Hinjewadi,Residential,True,Medium,1500,True,True,18,True
+6270,Tanya Kumar,41,Shivajinagar,Residential,False,Low,3000,False,True,28,False
+8445,Pooja Mehta,50,Hinjewadi,Commercial,True,High,8000,True,False,7,True
+1996,Pooja Thakur,30,Hinjewadi,Commercial,True,High,1500,False,False,20,False
+6364,Sai Gupta,46,Viman Nagar,Farm,False,Low,8000,True,True,24,False
+1830,Aisha Joshi,31,Kedgaon,Commercial,False,Medium,1500,False,True,14,True
+1769,Madhuri Jadhav,25,Shivajinagar,Farm,False,High,3000,False,False,24,False
+1912,Pooja Pawar,26,Pune,Farm,True,High,5000,True,False,12,False
+7140,Tanya Jadhav,44,Hinjewadi,Residential,True,Low,500,False,True,14,False
+7821,Reyansh Sharma,34,Kothrud,Commercial,False,High,3000,False,False,23,True
+9672,Aarav Bhosale,52,Kothrud,Farm,False,High,8000,True,False,17,False
+3430,Shruti Thakur,58,Viman Nagar,Commercial,False,Low,500,True,True,14,True
+3716,Nisha Gupta,38,Bavdhan,Residential,False,Medium,1500,True,False,19,False
+8153,Shaurya Jadhav,32,Aundh,Commercial,True,Medium,1500,False,False,10,False
+4101,Aditya Sharma,58,Baner,Commercial,True,High,500,True,False,24,True
+3561,Yash Yadav,27,Hinjewadi,Commercial,True,Low,8000,True,True,25,False
+9533,Pooja Thakur,37,Kothrud,Farm,False,High,1500,True,False,17,True
+5233,Nisha Kumar,50,Viman Nagar,Residential,True,High,3000,False,True,24,True
+1118,Ananya Verma,32,Baner,Residential,True,Medium,500,True,True,20,True
+6894,Sai Singh,26,Hadapsar,Commercial,True,Low,8000,False,False,4,False
+8227,Riya Reddy,58,Viman Nagar,Residential,False,Low,1500,False,True,7,True
+8189,Shaurya Reddy,41,Hadapsar,Commercial,False,Medium,5000,False,False,25,False
+1927,Aarav Pawar,37,Shivajinagar,Residential,False,Medium,500,True,False,7,False
+3338,Pooja Naik,42,Pune,Residential,True,Medium,8000,False,True,16,False
+2096,Reyansh Jadhav,60,Kothrud,Commercial,True,High,5000,True,True,14,False
+1339,Ravi Soni,33,Pune,Residential,True,Low,5000,True,True,16,True
+1140,Shaurya Reddy,32,Shivajinagar,Commercial,False,Low,3000,False,True,25,True
+7480,Yash Thakur,53,Bavdhan,Residential,True,Medium,500,False,True,23,True
+3325,Krishna Shetty,30,Kedgaon,Farm,False,High,5000,False,True,15,True
+5954,Reyansh Gupta,28,Hadapsar,Farm,True,Medium,5000,True,False,2,True
+2750,Aarav Yadav,25,Hadapsar,Commercial,True,High,1500,True,False,25,True
+6832,Aditya Jadhav,38,Pune,Farm,False,High,8000,False,False,21,False
+7480,Isha Pawar,56,Hinjewadi,Residential,True,Low,8000,False,True,18,True
+4786,Ananya Joshi,30,Viman Nagar,Farm,True,Medium,5000,True,True,17,False
+9965,Vivaan Singh,40,Pune,Farm,False,Low,500,False,True,12,True
+9109,Pooja Deshmukh,36,Baner,Farm,False,High,500,False,True,4,True
+5388,Tanya Gupta,38,Baner,Farm,True,Medium,1500,True,True,19,True
+3272,Ravi Shetty,36,Viman Nagar,Residential,False,Medium,1500,False,True,22,True
+3653,Isha Verma,42,Pune,Commercial,False,Low,500,True,True,15,True
+4675,Aisha Singh,39,Shivajinagar,Farm,True,Medium,3000,True,True,7,False
+2987,Yash Reddy,30,Hinjewadi,Residential,True,High,8000,True,True,8,False
+2009,Nisha Soni,55,Bavdhan,Commercial,True,Medium,8000,False,False,6,False
+4614,Arjun Pawar,40,Kedgaon,Farm,True,High,500,False,False,17,True
+7642,Aisha Singh,37,Kothrud,Commercial,True,Low,5000,False,True,26,True
+2586,Riya Shetty,25,Kedgaon,Residential,False,Medium,8000,False,True,11,True
+7303,Vivaan Kulkarni,33,Hadapsar,Commercial,False,High,3000,False,True,3,False
+4859,Riya Sharma,51,Viman Nagar,Commercial,False,Low,8000,True,True,21,False
+8115,Ananya Thakur,43,Kothrud,Farm,True,Low,5000,True,False,21,True
+2155,Pooja Soni,53,Viman Nagar,Farm,False,High,5000,True,False,24,False
+2546,Madhuri Jadhav,55,Viman Nagar,Residential,False,Low,5000,False,False,29,True
+8683,Riya Mehta,43,Pune,Residential,True,High,5000,False,False,17,False
+1779,Nisha Deshmukh,50,Bavdhan,Farm,True,High,8000,True,False,26,True
+6022,Aditya Chavan,55,Bavdhan,Residential,True,Low,1500,True,True,20,True
+5718,Isha Sharma,35,Bavdhan,Residential,False,High,500,True,True,30,True
+4627,Yash Thakur,59,Bavdhan,Commercial,True,Medium,1500,True,False,3,False
+3710,Ananya Reddy,51,Shivajinagar,Farm,True,High,1500,False,True,7,False
+6804,Krishna Yadav,48,Kothrud,Commercial,False,High,3000,True,True,22,True
+9083,Vivaan Deshmukh,34,Kedgaon,Commercial,True,High,3000,True,False,30,False
+5942,Krishna Yadav,25,Bavdhan,Commercial,True,Medium,8000,True,True,10,True
+5582,Aarav Mehta,42,Shivajinagar,Commercial,True,Medium,1500,True,False,19,False
+5313,Riya Chavan,50,Pune,Residential,True,Medium,8000,True,False,1,False
+3085,Shaurya Reddy,42,Bavdhan,Commercial,True,Low,8000,True,False,27,False
+7804,Yash Deshmukh,26,Shivajinagar,Commercial,True,Low,1500,False,False,1,False
+6273,Rupal Jadhav,36,Bavdhan,Residential,True,Medium,8000,True,True,26,True
+5797,Sai Reddy,50,Bavdhan,Residential,False,Low,500,False,True,18,False
+9740,Nisha Thakur,46,Baner,Farm,True,Low,3000,False,False,17,True
+2138,Rupal Kulkarni,44,Pune,Farm,True,Low,1500,False,False,13,True
+3520,Aarav Soni,33,Hinjewadi,Residential,False,Medium,8000,False,True,22,False
+7133,Pooja Thakur,25,Kedgaon,Farm,True,Medium,500,True,False,14,False
+9451,Madhuri Soni,55,Hinjewadi,Residential,True,High,3000,True,True,17,False
+1699,Aisha Jadhav,30,Kedgaon,Commercial,True,Low,3000,True,True,15,False
+1156,Ananya Soni,40,Pune,Residential,True,Medium,1500,False,False,4,True
+2714,Reyansh Patil,36,Aundh,Residential,True,Low,500,True,False,17,False
+7876,Rupal Verma,48,Hadapsar,Commercial,True,Low,500,True,True,9,True
+5515,Ravi Jadhav,58,Pune,Farm,False,Low,8000,False,True,14,False
+4103,Aisha Naik,49,Pune,Residential,False,Low,5000,True,False,13,False
+2201,Tanya Shetty,50,Shivajinagar,Residential,False,High,3000,True,True,22,True
+2010,Nisha Yadav,58,Kothrud,Farm,False,Low,3000,False,False,8,True
+3982,Krishna Pawar,40,Viman Nagar,Commercial,False,High,8000,True,True,2,False
+2356,Vivaan Verma,34,Hinjewadi,Residential,True,Low,5000,False,True,27,False
+3992,Pooja Verma,59,Aundh,Residential,True,High,8000,True,False,24,True
+4647,Shaurya Bhosale,59,Pune,Residential,True,High,5000,True,True,7,False
+1710,Ananya Pawar,54,Shivajinagar,Farm,False,High,500,True,False,28,False
+9679,Isha Thakur,51,Baner,Farm,True,High,500,True,False,23,False
+5032,Krishna Thakur,32,Pune,Farm,False,Medium,8000,False,True,28,False
+7990,Arjun Thakur,41,Shivajinagar,Residential,False,Low,3000,False,True,30,True
+5146,Madhuri Jadhav,59,Kothrud,Commercial,True,Low,3000,True,True,6,False
+4039,Aditya Bhosale,58,Kedgaon,Residential,True,Low,1500,False,False,30,False
+9307,Madhuri Pawar,42,Kothrud,Commercial,True,High,3000,False,True,26,True
+8089,Madhuri Soni,37,Kothrud,Farm,True,Low,500,False,True,16,False
+2941,Pooja Singh,58,Viman Nagar,Commercial,True,Medium,8000,True,False,2,False
+1278,Sai Sharma,33,Kedgaon,Residential,True,High,5000,False,False,19,True
+5172,Aditya Gupta,27,Bavdhan,Residential,True,Low,5000,True,False,9,False
+6147,Krishna Deshmukh,50,Aundh,Commercial,True,Medium,500,False,False,13,False
+6166,Krishna Reddy,35,Hadapsar,Commercial,True,Low,500,False,True,15,False
+2441,Arjun Verma,25,Viman Nagar,Residential,True,Low,500,False,False,20,False
+2668,Ananya Kulkarni,27,Hinjewadi,Commercial,False,High,5000,False,False,22,False
+6951,Aditya Chavan,48,Viman Nagar,Commercial,False,Medium,500,False,True,25,False
+8602,Pooja Bhosale,53,Pune,Commercial,False,Medium,1500,False,True,19,True
+6913,Krishna Pawar,31,Hinjewadi,Commercial,False,Medium,5000,True,True,27,False
+8963,Pooja Shetty,50,Shivajinagar,Commercial,False,High,8000,True,False,10,False
+5455,Isha Sharma,37,Kedgaon,Farm,True,Low,3000,True,False,11,False
+5657,Vivaan Jadhav,34,Hadapsar,Commercial,False,Low,1500,True,True,8,False
+5234,Riya Jadhav,39,Shivajinagar,Farm,False,Medium,1500,True,True,28,True
+6344,Ananya Chavan,38,Aundh,Farm,False,High,1500,True,False,23,False
+4763,Yash Mehta,54,Kothrud,Farm,True,High,3000,False,True,2,False
+1648,Aditya Naik,53,Hinjewadi,Residential,True,Medium,1500,False,True,7,True
+1906,Aisha Pawar,29,Bavdhan,Commercial,False,High,5000,False,True,16,True
+4673,Aarav Verma,57,Hinjewadi,Commercial,False,Low,8000,False,True,25,True
+2313,Ravi Verma,44,Baner,Commercial,True,Low,5000,True,False,22,True
+6796,Shaurya Mehta,35,Kedgaon,Farm,True,Medium,3000,False,True,5,True
+9124,Arjun Yadav,59,Bavdhan,Commercial,False,High,5000,True,True,17,False
+2563,Madhuri Thakur,30,Hadapsar,Commercial,False,Low,8000,False,False,21,True
+3091,Reyansh Yadav,37,Hadapsar,Residential,True,Low,500,True,False,20,True
+3607,Aisha Singh,29,Shivajinagar,Farm,False,High,5000,False,True,20,True
+2222,Nisha Singh,45,Hinjewadi,Commercial,True,Low,5000,True,False,25,False
+5267,Ravi Joshi,56,Kedgaon,Farm,False,High,5000,True,False,16,False
+9371,Krishna Mehta,54,Kothrud,Commercial,False,Low,8000,True,False,10,False
+5774,Shruti Verma,27,Shivajinagar,Commercial,True,Low,8000,True,True,22,False
+4387,Yash Jadhav,57,Hinjewadi,Farm,False,Medium,500,False,True,5,False
+1337,Pooja Patil,49,Bavdhan,Commercial,False,Low,5000,True,True,1,True
+8147,Shruti Yadav,31,Viman Nagar,Farm,True,Medium,8000,True,True,29,False
+5584,Riya Naik,35,Pune,Commercial,True,Low,1500,True,False,20,True
+6702,Arjun Reddy,38,Shivajinagar,Residential,False,High,5000,True,False,8,False
+2792,Aisha Sharma,30,Kedgaon,Farm,True,High,1500,False,True,1,False
+8750,Ravi Joshi,49,Kedgaon,Commercial,False,Medium,5000,True,False,13,True
+3979,Reyansh Jadhav,32,Pune,Residential,False,Low,3000,True,True,15,True
+8493,Reyansh Verma,33,Shivajinagar,Commercial,False,High,5000,True,False,25,True
+3652,Riya Yadav,33,Hinjewadi,Farm,False,Medium,3000,False,True,6,True
+4567,Yash Patil,49,Hadapsar,Commercial,True,Low,3000,True,False,18,False
+2668,Sai Mehta,29,Viman Nagar,Farm,False,High,1500,False,True,30,False
+7209,Reyansh Verma,42,Kedgaon,Farm,True,Medium,8000,False,True,26,True
+8737,Vivaan Sharma,57,Viman Nagar,Commercial,False,High,8000,True,True,28,True
+4672,Pooja Verma,54,Kedgaon,Residential,True,Medium,3000,False,True,15,True
+3414,Aisha Kumar,53,Baner,Residential,False,Low,8000,False,False,8,False
+5748,Shruti Soni,50,Bavdhan,Commercial,False,High,8000,True,False,20,False
+2327,Ananya Soni,28,Kothrud,Commercial,False,Low,5000,False,True,10,True
+6181,Tanya Verma,48,Hadapsar,Farm,True,High,500,False,True,6,False
+8303,Pooja Naik,43,Shivajinagar,Commercial,False,Low,8000,False,False,15,False
+2225,Reyansh Sharma,33,Hadapsar,Commercial,True,High,5000,False,False,8,True
+4829,Arjun Kulkarni,41,Viman Nagar,Farm,False,High,1500,False,True,26,False
+7954,Yash Kulkarni,56,Hinjewadi,Farm,True,Medium,3000,False,False,24,True
+1420,Aisha Thakur,47,Kedgaon,Commercial,True,Low,1500,True,False,11,False
+2880,Aditya Yadav,59,Kothrud,Commercial,False,Medium,3000,True,True,10,False
+5544,Rupal Kumar,44,Kedgaon,Residential,True,Low,500,True,False,4,True
+9763,Madhuri Kulkarni,58,Viman Nagar,Farm,False,Medium,500,True,True,12,True
+5955,Nisha Mehta,56,Kothrud,Farm,False,Medium,1500,True,False,28,False
+9252,Arjun Deshmukh,25,Viman Nagar,Commercial,True,High,5000,True,False,24,False
+5613,Reyansh Naik,55,Pune,Residential,True,Medium,500,True,False,4,True
+4111,Aisha Naik,56,Hinjewadi,Commercial,False,High,8000,True,True,6,True
+7098,Isha Yadav,25,Baner,Farm,False,High,1500,False,False,17,False
+4699,Krishna Soni,51,Kedgaon,Farm,True,High,8000,True,False,4,False
+6386,Tanya Kulkarni,37,Pune,Residential,False,Medium,1500,True,True,17,False
+8691,Ananya Sharma,31,Aundh,Commercial,False,Low,3000,False,False,30,True
+8856,Nisha Mehta,27,Aundh,Residential,False,Medium,8000,False,True,6,True
+4494,Tanya Soni,56,Shivajinagar,Residential,True,Low,500,False,True,11,True
+5181,Nisha Mehta,55,Hinjewadi,Farm,True,Low,1500,True,False,21,True
+6760,Ananya Jadhav,41,Viman Nagar,Farm,False,High,5000,False,False,24,False
+2290,Isha Singh,35,Hadapsar,Commercial,True,Low,5000,True,True,18,False
+5537,Ananya Pawar,58,Shivajinagar,Farm,True,Medium,3000,False,False,6,False
+1390,Ravi Yadav,26,Bavdhan,Residential,True,Medium,3000,True,True,24,True
+8228,Aarav Chavan,48,Viman Nagar,Residential,True,Medium,5000,False,False,17,True
+7922,Aisha Mehta,48,Aundh,Farm,False,Low,500,False,True,16,True
+6767,Aisha Naik,45,Viman Nagar,Farm,True,Low,500,False,False,27,True
+9506,Aditya Bhosale,40,Pune,Farm,False,Low,8000,True,False,15,True
+8950,Sai Singh,49,Aundh,Farm,True,High,3000,False,True,19,False
+9755,Isha Yadav,60,Kothrud,Residential,True,High,3000,True,True,13,True
+3250,Ravi Jadhav,50,Hinjewadi,Farm,False,Low,500,True,True,26,True
+6285,Rupal Joshi,25,Hadapsar,Residential,True,Medium,500,True,False,10,False
+8114,Aditya Mehta,40,Kothrud,Residential,False,Medium,8000,True,True,28,False
+4000,Ananya Kumar,49,Kothrud,Residential,False,High,3000,True,True,4,True
+5012,Shruti Thakur,35,Baner,Commercial,True,Medium,8000,True,False,20,False
+8275,Riya Singh,26,Pune,Commercial,True,High,3000,True,False,13,False
+4156,Sai Yadav,27,Hadapsar,Residential,False,Low,5000,True,True,24,False
+5851,Pooja Verma,36,Viman Nagar,Commercial,False,Medium,5000,False,False,19,True
+2918,Arjun Naik,30,Aundh,Commercial,False,Low,5000,False,False,13,True
+4346,Sai Shetty,44,Hinjewadi,Commercial,False,Medium,500,False,False,29,False
+3445,Aditya Kumar,42,Hadapsar,Commercial,False,Medium,3000,False,True,9,True
+5402,Arjun Gupta,53,Bavdhan,Farm,True,Medium,8000,True,False,9,False
+1371,Riya Naik,59,Bavdhan,Residential,True,High,500,True,False,14,True
+7274,Pooja Kulkarni,48,Baner,Commercial,True,Medium,8000,False,False,4,True
+1569,Pooja Reddy,50,Kothrud,Farm,True,High,500,True,True,29,False
+9012,Krishna Mehta,43,Bavdhan,Commercial,True,Medium,8000,True,True,1,False
+9486,Arjun Thakur,56,Baner,Residential,True,Medium,8000,True,True,25,False
+9541,Arjun Jadhav,41,Aundh,Farm,True,Low,3000,True,False,10,False
+5444,Rupal Singh,37,Hadapsar,Residential,False,Low,5000,True,True,15,False
+8113,Arjun Patil,47,Baner,Residential,True,Low,3000,False,True,30,True
+7058,Ravi Pawar,41,Bavdhan,Farm,False,High,500,True,True,27,True
+7853,Krishna Shetty,43,Hadapsar,Commercial,True,Low,8000,False,False,7,True
+1325,Vivaan Gupta,46,Baner,Residential,False,High,5000,False,False,5,True
+4035,Yash Gupta,32,Kedgaon,Commercial,True,High,5000,True,True,19,False
+4322,Shaurya Patil,43,Aundh,Farm,True,Low,500,True,False,30,True
+4769,Nisha Soni,52,Kedgaon,Farm,False,High,8000,True,True,6,True
+8647,Shruti Deshmukh,41,Pune,Farm,False,Low,1500,False,True,3,False
+1731,Shruti Chavan,49,Hinjewadi,Residential,True,High,8000,True,True,6,True
+4138,Madhuri Mehta,28,Aundh,Commercial,True,Medium,5000,True,True,9,False
+6736,Krishna Singh,53,Bavdhan,Commercial,True,High,1500,False,False,22,False
+3009,Aarav Reddy,50,Aundh,Farm,True,High,5000,False,False,24,False
+2509,Tanya Kumar,37,Bavdhan,Residential,False,High,5000,False,False,23,True
+7810,Aarav Sharma,59,Hadapsar,Residential,False,High,8000,False,False,24,False
+1319,Arjun Reddy,44,Hinjewadi,Commercial,False,Medium,5000,False,False,6,False
+1812,Krishna Mehta,52,Bavdhan,Commercial,True,Medium,500,True,True,27,True
+8479,Shruti Soni,50,Shivajinagar,Commercial,True,Medium,500,True,True,21,True
+5172,Ananya Reddy,52,Hadapsar,Commercial,False,Medium,1500,False,False,27,False
+9125,Arjun Patil,50,Hinjewadi,Commercial,True,High,500,True,True,17,True
+3481,Rupal Verma,58,Aundh,Commercial,True,High,5000,True,True,18,False
+8231,Shruti Mehta,44,Baner,Residential,False,Medium,1500,False,True,27,False
+8031,Aditya Singh,47,Kothrud,Residential,True,Low,1500,True,True,29,True
+6054,Shruti Naik,58,Baner,Residential,False,Medium,1500,True,True,8,False
+1028,Yash Yadav,38,Hinjewadi,Residential,False,High,5000,True,True,20,False
+8601,Shruti Patil,39,Baner,Farm,False,Low,8000,False,True,10,False
+7565,Aarav Yadav,59,Viman Nagar,Residential,True,Low,5000,True,True,28,True
+3296,Riya Bhosale,25,Baner,Residential,False,Medium,3000,False,True,2,True
+4622,Aarav Reddy,39,Hadapsar,Commercial,True,Low,1500,False,True,22,True
+9395,Aditya Soni,34,Kedgaon,Commercial,True,Medium,8000,True,True,8,True
+9418,Sai Gupta,27,Hinjewadi,Farm,True,High,8000,False,True,5,False
+7736,Aisha Naik,31,Bavdhan,Commercial,True,Medium,500,True,True,22,False
+6898,Ananya Chavan,54,Aundh,Farm,False,Low,8000,False,False,16,False
+6749,Vivaan Reddy,30,Aundh,Residential,False,Medium,1500,True,False,29,True
+4797,Shruti Kumar,57,Viman Nagar,Farm,False,Low,5000,False,False,4,False
+1862,Reyansh Joshi,51,Aundh,Farm,True,High,3000,True,True,29,True
+1051,Pooja Chavan,40,Hadapsar,Commercial,False,High,3000,True,False,21,False
+9509,Pooja Kumar,36,Kothrud,Commercial,False,High,3000,True,False,8,False
+6960,Krishna Sharma,48,Viman Nagar,Commercial,False,Medium,3000,False,True,2,True
+9530,Shruti Jadhav,31,Hinjewadi,Farm,False,Medium,3000,True,True,30,False
+7720,Reyansh Yadav,30,Shivajinagar,Commercial,False,Medium,5000,True,False,2,False
+9803,Aisha Thakur,37,Hadapsar,Farm,False,Medium,1500,False,True,1,False
+1621,Yash Pawar,59,Kothrud,Commercial,False,Low,5000,False,True,13,True
+2243,Isha Jadhav,59,Hinjewadi,Residential,False,Medium,5000,False,False,27,True
+6766,Pooja Chavan,35,Hinjewadi,Farm,True,High,1500,False,True,18,True
+3582,Riya Verma,54,Viman Nagar,Commercial,True,Low,8000,True,False,9,True
+1013,Krishna Naik,57,Bavdhan,Residential,True,Medium,8000,True,True,16,False
+4910,Arjun Deshmukh,59,Baner,Farm,False,Low,1500,True,True,15,False
+9337,Aarav Thakur,47,Aundh,Residential,False,Low,3000,True,True,4,False
+8022,Arjun Gupta,31,Baner,Residential,True,Low,8000,True,True,10,False
+5047,Aisha Bhosale,54,Baner,Farm,True,Low,3000,False,True,19,False
+5970,Ananya Chavan,40,Baner,Farm,True,High,500,True,True,29,False
+9537,Sai Sharma,27,Viman Nagar,Commercial,True,High,8000,False,True,22,True
+4955,Riya Gupta,32,Kedgaon,Commercial,True,Medium,8000,True,True,7,True
+7648,Aditya Deshmukh,39,Viman Nagar,Residential,True,Medium,3000,True,True,30,False
+4783,Shruti Soni,39,Kothrud,Farm,False,High,500,False,True,14,True
+7475,Vivaan Shetty,42,Kothrud,Residential,False,Low,500,True,True,3,False
+3873,Arjun Verma,26,Kedgaon,Farm,False,Medium,3000,False,True,3,False
+5847,Aisha Shetty,36,Baner,Commercial,False,Medium,3000,True,True,24,False
+9587,Tanya Sharma,48,Aundh,Residential,False,Low,1500,False,True,18,True
+2558,Riya Verma,28,Bavdhan,Residential,False,High,500,True,False,17,True
+5693,Madhuri Gupta,27,Shivajinagar,Commercial,True,Medium,500,True,False,3,True
+4383,Shaurya Reddy,48,Hadapsar,Residential,False,Low,5000,False,False,7,True
+7947,Arjun Thakur,36,Baner,Farm,True,Medium,5000,False,False,6,False
+7102,Krishna Gupta,39,Aundh,Farm,True,Low,5000,False,False,12,False
+3943,Riya Kumar,36,Bavdhan,Residential,False,Medium,1500,True,True,16,True
+3461,Aarav Kulkarni,47,Kothrud,Commercial,False,High,8000,True,False,4,True
+5212,Pooja Chavan,37,Baner,Farm,True,Low,1500,True,True,6,True
+8068,Tanya Thakur,44,Kedgaon,Farm,True,Low,8000,True,False,16,False
+4526,Riya Kulkarni,47,Hinjewadi,Farm,True,Medium,5000,True,True,17,False
+1724,Tanya Chavan,35,Kedgaon,Residential,False,Medium,1500,False,True,28,False
+5821,Pooja Soni,31,Viman Nagar,Commercial,False,Medium,5000,False,False,27,False
+3552,Ravi Jadhav,46,Hinjewadi,Residential,False,Medium,8000,True,False,4,True
+5711,Aditya Chavan,27,Kedgaon,Commercial,False,High,500,True,False,25,True
+3297,Sai Jadhav,56,Pune,Commercial,True,Medium,5000,False,False,29,False
+9549,Arjun Sharma,42,Kedgaon,Commercial,True,Low,1500,False,False,27,True
+3176,Reyansh Deshmukh,29,Baner,Commercial,False,Low,8000,False,False,5,False
+1242,Nisha Joshi,60,Kedgaon,Farm,True,High,1500,True,False,22,True
+6493,Aarav Verma,54,Hadapsar,Commercial,True,Medium,5000,False,False,12,False
+4956,Aisha Joshi,59,Aundh,Farm,True,Low,8000,False,True,27,False
+1269,Ravi Naik,48,Kedgaon,Farm,True,Low,500,True,False,2,True
+4772,Arjun Jadhav,44,Aundh,Residential,False,Low,8000,True,True,29,False
+2577,Riya Reddy,59,Hinjewadi,Residential,True,Medium,8000,True,False,4,True
+9709,Pooja Mehta,54,Aundh,Commercial,False,Low,5000,True,True,23,True
+4389,Vivaan Naik,53,Baner,Residential,False,Low,5000,True,False,15,False
+3949,Aisha Pawar,57,Kothrud,Farm,False,Medium,8000,False,False,21,True
+8773,Sai Jadhav,59,Bavdhan,Farm,True,High,5000,False,False,30,True
+4855,Aarav Deshmukh,53,Hadapsar,Residential,False,High,1500,False,True,7,False
+4761,Vivaan Naik,26,Bavdhan,Residential,False,Low,500,False,True,4,False
+1094,Isha Patil,31,Bavdhan,Farm,True,Medium,1500,True,False,27,False
+7534,Tanya Thakur,56,Aundh,Farm,True,Low,500,False,False,17,False
+9648,Riya Kulkarni,33,Hadapsar,Commercial,True,High,1500,False,False,15,True
+8948,Vivaan Thakur,34,Kothrud,Farm,True,High,3000,True,False,29,True
+9893,Isha Pawar,25,Viman Nagar,Commercial,True,Medium,500,False,False,20,False
+3514,Arjun Chavan,28,Viman Nagar,Commercial,False,Low,8000,True,False,18,False
+3015,Shaurya Soni,33,Viman Nagar,Farm,True,Medium,500,False,True,30,True
+3748,Shruti Pawar,46,Kothrud,Residential,True,High,500,False,True,2,False
+6369,Aditya Soni,38,Baner,Commercial,False,Medium,1500,False,True,29,True
+1543,Aarav Bhosale,28,Viman Nagar,Farm,True,Medium,1500,True,True,2,False
+8028,Arjun Reddy,39,Shivajinagar,Farm,False,High,1500,False,True,23,False
+8450,Aditya Gupta,58,Viman Nagar,Residential,True,Medium,3000,False,True,15,True
+1976,Aisha Kulkarni,37,Baner,Residential,False,Medium,1500,False,False,13,False
+3845,Tanya Joshi,32,Hinjewadi,Commercial,False,High,8000,False,True,26,False
+1837,Aarav Singh,45,Shivajinagar,Residential,True,Medium,1500,True,False,22,False
+7852,Shaurya Pawar,56,Kothrud,Commercial,True,High,3000,True,True,19,True
+2626,Shaurya Patil,38,Kedgaon,Residential,False,Low,1500,True,False,10,True
+5093,Krishna Thakur,45,Shivajinagar,Residential,False,Low,3000,True,True,11,False
+8067,Madhuri Soni,25,Hinjewadi,Residential,False,High,3000,True,False,29,False
+1904,Rupal Chavan,35,Hadapsar,Farm,True,High,5000,True,False,17,True
+9909,Arjun Naik,40,Bavdhan,Farm,False,Low,500,False,True,7,False
+4758,Arjun Chavan,41,Hinjewadi,Residential,False,High,500,False,True,6,True
+9850,Madhuri Singh,34,Aundh,Residential,False,Medium,500,False,False,11,True
+8360,Vivaan Bhosale,33,Kothrud,Residential,False,High,1500,False,False,20,True
+1132,Rupal Yadav,38,Kothrud,Commercial,False,High,1500,False,True,12,False
+1878,Yash Deshmukh,40,Pune,Residential,True,Medium,1500,False,True,8,True
+7833,Shaurya Soni,26,Baner,Commercial,True,Medium,5000,True,False,20,True
+5799,Madhuri Shetty,34,Shivajinagar,Farm,True,High,5000,False,True,10,False
+6585,Ananya Chavan,58,Aundh,Commercial,False,Low,500,False,True,25,False
+8541,Shruti Mehta,41,Kothrud,Residential,False,Low,500,True,False,25,False
+2875,Nisha Deshmukh,25,Pune,Residential,True,Low,3000,True,False,7,False
+7211,Ananya Gupta,33,Kedgaon,Farm,False,Medium,500,True,False,23,True
+1839,Vivaan Chavan,41,Kedgaon,Commercial,False,Medium,500,True,True,18,False
+9158,Madhuri Naik,28,Pune,Residential,False,Low,1500,True,True,28,True
+6636,Aisha Pawar,58,Bavdhan,Residential,False,Medium,500,True,False,4,True
+2924,Aisha Deshmukh,45,Kedgaon,Residential,True,Medium,8000,False,False,17,False
+4637,Isha Gupta,30,Hadapsar,Residential,True,Low,1500,False,False,7,False
+1122,Tanya Sharma,26,Aundh,Commercial,False,Medium,8000,False,False,20,True
+6788,Pooja Verma,26,Hinjewadi,Residential,False,Medium,8000,True,True,12,False
+6317,Krishna Naik,28,Baner,Farm,True,High,500,True,False,7,False
+2138,Aarav Kumar,50,Kothrud,Farm,True,Low,8000,True,False,11,False
+6124,Ananya Pawar,60,Hinjewadi,Commercial,True,Low,500,False,True,17,False
+5149,Yash Deshmukh,46,Pune,Commercial,True,Medium,500,False,True,10,False
+2668,Krishna Jadhav,56,Kothrud,Residential,False,High,1500,False,False,20,True
+5807,Reyansh Thakur,25,Baner,Residential,True,Low,1500,False,True,10,False
+5325,Arjun Sharma,28,Baner,Commercial,False,Low,3000,True,False,27,False
+8609,Rupal Bhosale,27,Viman Nagar,Residential,True,High,5000,True,True,30,True
+7590,Arjun Naik,32,Kedgaon,Commercial,False,Low,8000,True,False,24,False
+2167,Pooja Sharma,50,Pune,Residential,False,High,5000,True,True,19,False
+4784,Aarav Naik,56,Hadapsar,Farm,True,Medium,1500,True,True,3,False
+4864,Krishna Pawar,34,Kedgaon,Farm,False,Medium,8000,False,True,13,False
+5543,Aditya Deshmukh,37,Viman Nagar,Farm,False,Low,5000,True,False,7,True
+1971,Aditya Reddy,49,Kothrud,Commercial,False,High,3000,False,False,25,True
+8309,Pooja Sharma,37,Kedgaon,Commercial,True,Medium,8000,False,True,10,False
+2268,Nisha Pawar,50,Kedgaon,Residential,False,Low,3000,False,True,7,False
+9481,Aditya Naik,53,Pune,Residential,True,Medium,500,True,False,17,True
+1144,Aarav Verma,49,Kothrud,Farm,True,Low,3000,False,False,14,True
+5105,Shruti Thakur,25,Pune,Farm,False,Low,1500,True,False,21,True
+4990,Shruti Bhosale,42,Hinjewadi,Residential,False,High,8000,True,True,9,False
+8105,Yash Deshmukh,35,Bavdhan,Farm,True,Medium,8000,False,True,21,False
+9331,Nisha Chavan,54,Aundh,Residential,False,Low,5000,True,False,9,False
+1654,Sai Gupta,45,Hinjewadi,Commercial,True,High,500,True,True,9,True
+4072,Shruti Yadav,42,Hadapsar,Farm,True,Medium,1500,False,False,7,True
+9466,Krishna Sharma,45,Kedgaon,Farm,False,High,5000,True,False,20,False
+4475,Sai Bhosale,55,Kedgaon,Farm,False,High,8000,False,False,28,True
+8261,Shruti Reddy,55,Shivajinagar,Farm,True,Low,5000,True,False,21,False
+8435,Aarav Soni,51,Kothrud,Farm,True,Low,1500,True,False,21,True
+5167,Nisha Sharma,56,Pune,Residential,False,Low,500,False,True,14,False
+2931,Isha Gupta,37,Bavdhan,Commercial,True,High,500,True,False,12,False
+6082,Shaurya Thakur,48,Kedgaon,Farm,False,High,1500,True,True,22,True
+7227,Aditya Chavan,41,Viman Nagar,Residential,True,Low,1500,False,False,27,True
+3850,Riya Jadhav,42,Pune,Commercial,True,High,5000,False,True,27,False
+6475,Vivaan Soni,28,Viman Nagar,Farm,True,Low,5000,True,False,20,False
+9407,Reyansh Bhosale,35,Aundh,Residential,True,Medium,8000,False,False,26,True
+3818,Shruti Gupta,51,Kedgaon,Commercial,False,Medium,8000,False,False,1,True
+6141,Madhuri Yadav,39,Aundh,Farm,True,Low,1500,True,True,5,True
+4108,Yash Joshi,28,Hadapsar,Commercial,False,Low,1500,False,False,2,True
+3819,Arjun Sharma,28,Hadapsar,Commercial,False,Medium,3000,True,False,20,False
+8758,Yash Shetty,46,Viman Nagar,Farm,True,Medium,1500,True,False,5,True
+4063,Tanya Verma,59,Pune,Commercial,True,High,500,False,False,15,False
+7605,Isha Naik,30,Shivajinagar,Farm,True,Medium,1500,True,True,27,True
+9138,Aisha Kumar,38,Bavdhan,Farm,False,High,1500,True,False,6,True
+3169,Ananya Sharma,40,Hinjewadi,Commercial,False,High,1500,True,True,17,False
+9240,Shruti Joshi,47,Hadapsar,Farm,False,High,500,False,False,24,True
+1519,Ravi Shetty,36,Viman Nagar,Commercial,False,High,3000,True,False,8,False
+9690,Aditya Jadhav,44,Bavdhan,Farm,True,High,5000,True,False,15,False
+3590,Isha Patil,34,Bavdhan,Residential,True,Medium,1500,False,False,19,True
+1495,Krishna Kumar,38,Viman Nagar,Residential,True,High,8000,False,False,13,False
+8491,Tanya Chavan,54,Kothrud,Farm,True,Medium,8000,False,False,15,False
+9266,Tanya Gupta,51,Aundh,Residential,False,High,500,False,False,23,False
+2634,Nisha Shetty,34,Kedgaon,Residential,False,Medium,3000,False,False,5,True
+7173,Sai Deshmukh,33,Pune,Commercial,True,High,5000,False,True,16,False
+7117,Nisha Yadav,36,Baner,Residential,True,High,3000,False,False,19,True
+5090,Arjun Patil,42,Hinjewadi,Residential,True,High,8000,False,False,5,False
+5112,Ravi Gupta,53,Baner,Farm,True,Low,8000,True,False,21,True
+1765,Isha Kulkarni,27,Baner,Farm,False,Low,1500,False,True,27,True
+7709,Aarav Deshmukh,28,Viman Nagar,Residential,False,High,3000,False,False,19,False
+7632,Arjun Kulkarni,50,Baner,Farm,False,Low,500,True,True,20,False
+8384,Shaurya Yadav,59,Hinjewadi,Commercial,True,Low,500,True,True,18,True
+2224,Ravi Pawar,60,Shivajinagar,Commercial,True,High,5000,False,True,7,True
+5649,Shaurya Joshi,38,Bavdhan,Residential,False,Medium,3000,True,True,17,True
+9422,Ravi Patil,42,Bavdhan,Residential,False,Low,3000,False,True,7,False
+4488,Arjun Kumar,37,Viman Nagar,Commercial,True,Low,5000,False,True,21,True
+6886,Tanya Bhosale,39,Shivajinagar,Farm,False,Medium,1500,False,True,4,False
+3686,Riya Pawar,42,Pune,Farm,True,High,500,False,False,30,True
+2025,Yash Singh,38,Kothrud,Residential,False,Low,5000,True,True,7,True
+1465,Yash Bhosale,52,Bavdhan,Commercial,False,High,500,True,True,16,False
+1292,Arjun Verma,43,Viman Nagar,Farm,False,Medium,500,True,False,11,True
+4612,Aisha Kumar,31,Bavdhan,Residential,True,High,8000,False,True,25,True
+5079,Pooja Yadav,58,Hinjewadi,Residential,True,Low,3000,False,True,28,True
+7341,Tanya Reddy,39,Kedgaon,Residential,True,Medium,8000,False,True,1,True
+1274,Shaurya Pawar,40,Aundh,Residential,True,Medium,8000,False,False,30,True
+2508,Shaurya Shetty,29,Aundh,Farm,True,Medium,5000,False,True,10,False
+4701,Nisha Yadav,25,Viman Nagar,Farm,True,High,1500,True,True,22,False
+8102,Ravi Singh,59,Kothrud,Residential,True,High,500,False,False,21,True
+9429,Reyansh Sharma,27,Bavdhan,Residential,False,High,3000,False,False,27,False
+5612,Reyansh Jadhav,52,Hadapsar,Farm,True,Medium,1500,False,True,14,True
+7002,Aarav Jadhav,54,Shivajinagar,Farm,True,Low,500,False,True,6,True
+4845,Shruti Reddy,28,Viman Nagar,Farm,True,Low,5000,True,False,24,True
+5863,Aarav Thakur,49,Kothrud,Residential,True,Medium,500,False,False,27,False
+2033,Aarav Soni,46,Hadapsar,Farm,True,Low,8000,False,True,30,False
+2677,Aditya Verma,48,Kedgaon,Residential,True,Medium,500,False,True,28,False
+6185,Vivaan Sharma,50,Bavdhan,Commercial,True,Low,8000,False,False,5,False
+7425,Isha Pawar,55,Pune,Residential,True,High,5000,False,True,2,False
+3514,Vivaan Gupta,58,Aundh,Farm,False,Low,5000,False,False,16,False
+3074,Shaurya Thakur,55,Hinjewadi,Farm,False,Medium,8000,True,False,5,False
+5225,Yash Jadhav,48,Hinjewadi,Commercial,True,Medium,500,False,False,2,True
+1673,Ravi Bhosale,52,Kothrud,Commercial,False,Low,8000,False,False,24,False
+7642,Pooja Naik,45,Pune,Residential,True,Low,3000,False,True,26,True
+9159,Rupal Singh,31,Kedgaon,Commercial,False,Low,500,False,False,10,False
+4203,Sai Deshmukh,42,Hinjewadi,Farm,False,Low,5000,False,False,23,True
+4766,Sai Pawar,38,Kothrud,Commercial,False,High,1500,True,True,8,True
+8527,Pooja Naik,48,Hinjewadi,Farm,False,Low,500,False,True,1,True
+9108,Rupal Verma,54,Viman Nagar,Commercial,False,Low,500,False,True,25,False
+6843,Vivaan Gupta,59,Pune,Commercial,True,Low,500,True,False,26,False
+6043,Nisha Deshmukh,45,Bavdhan,Commercial,False,High,5000,False,True,17,False
+5614,Sai Gupta,39,Hadapsar,Farm,False,Medium,8000,True,True,3,True
+4715,Isha Patil,46,Kedgaon,Commercial,False,High,8000,False,False,1,True
+3230,Aditya Jadhav,54,Viman Nagar,Commercial,False,High,5000,True,True,15,False
+3274,Aditya Shetty,44,Bavdhan,Farm,False,High,5000,False,False,24,True
+5071,Shruti Bhosale,51,Aundh,Residential,False,Medium,1500,True,True,8,True
+5895,Madhuri Soni,25,Baner,Farm,False,High,8000,False,False,2,False
+9686,Aarav Kumar,53,Hadapsar,Farm,False,Low,500,False,True,18,True
+4890,Madhuri Thakur,38,Aundh,Residential,False,Medium,500,False,False,11,False
+8180,Nisha Yadav,31,Baner,Commercial,True,High,8000,False,False,30,True
+5020,Madhuri Bhosale,55,Bavdhan,Farm,False,Low,1500,False,True,25,True
+7667,Ravi Yadav,51,Pune,Residential,True,Medium,1500,False,True,11,False
+1764,Tanya Soni,59,Viman Nagar,Farm,True,Medium,8000,True,True,18,True
+4847,Ravi Gupta,39,Shivajinagar,Residential,True,High,500,True,False,9,True
+8859,Madhuri Kumar,47,Baner,Farm,True,Medium,1500,True,False,3,False
+6311,Riya Joshi,59,Aundh,Farm,False,High,1500,False,False,26,False
+3665,Sai Bhosale,41,Bavdhan,Commercial,True,Low,8000,True,True,11,True
+9241,Madhuri Shetty,35,Shivajinagar,Farm,True,High,3000,False,False,13,False
+3876,Reyansh Sharma,38,Baner,Residential,True,Low,8000,False,True,10,False
+8366,Isha Pawar,40,Kedgaon,Residential,False,High,5000,True,True,30,True
+1966,Aarav Kulkarni,40,Pune,Commercial,False,High,5000,True,True,7,False
+7448,Aarav Bhosale,52,Bavdhan,Commercial,True,Medium,5000,False,True,15,True
+5611,Aditya Jadhav,45,Pune,Commercial,True,Low,5000,False,True,25,True
+5740,Reyansh Reddy,55,Baner,Farm,False,High,1500,True,True,28,True
+7334,Nisha Verma,58,Hadapsar,Commercial,True,Medium,1500,True,False,28,True
+9257,Nisha Kulkarni,57,Baner,Farm,False,Low,1500,True,False,24,False
+9162,Reyansh Thakur,39,Bavdhan,Farm,True,High,1500,False,False,29,True
+5769,Isha Gupta,45,Aundh,Commercial,False,Medium,5000,True,True,16,False
+6016,Nisha Chavan,27,Hinjewadi,Commercial,False,Low,5000,False,True,11,False
+2791,Ravi Yadav,41,Pune,Commercial,True,High,1500,False,False,14,False
+3946,Sai Thakur,46,Pune,Residential,True,Medium,1500,False,True,30,False
+6093,Krishna Thakur,40,Hadapsar,Residential,True,Medium,3000,True,True,9,False
+1369,Shruti Deshmukh,58,Bavdhan,Farm,False,Medium,1500,False,True,29,True
+5659,Arjun Mehta,51,Hinjewadi,Commercial,False,Medium,1500,True,True,19,False
+9224,Rupal Jadhav,38,Hinjewadi,Farm,True,Medium,1500,False,False,14,False
+6803,Shaurya Patil,25,Kedgaon,Commercial,False,High,5000,False,True,4,True
+6726,Arjun Thakur,29,Shivajinagar,Commercial,True,Low,5000,True,False,18,True
+1660,Reyansh Naik,34,Shivajinagar,Residential,True,High,3000,False,False,28,False
+8828,Arjun Joshi,49,Shivajinagar,Residential,False,High,5000,False,True,9,False
+2763,Pooja Singh,33,Pune,Commercial,False,Medium,3000,True,True,24,True
+9658,Krishna Sharma,57,Kedgaon,Commercial,True,High,3000,False,False,23,False
+8054,Ravi Mehta,39,Bavdhan,Commercial,True,High,3000,True,False,3,True
+5284,Aarav Reddy,58,Hinjewadi,Commercial,True,Low,500,True,True,6,False
+6093,Madhuri Deshmukh,29,Bavdhan,Residential,True,High,5000,False,False,5,False
+9470,Riya Soni,50,Pune,Residential,True,High,500,False,True,26,True
+5232,Shaurya Gupta,30,Bavdhan,Commercial,False,High,500,True,False,10,True
+5129,Aarav Soni,51,Hadapsar,Commercial,False,Low,500,False,True,16,True
+3510,Aditya Chavan,37,Kedgaon,Residential,True,High,1500,False,True,18,False
+1927,Pooja Naik,58,Viman Nagar,Commercial,True,Low,1500,False,True,23,True
+4445,Yash Mehta,49,Kedgaon,Commercial,False,High,8000,False,False,23,False
+8508,Sai Kulkarni,60,Bavdhan,Residential,False,Low,5000,False,False,12,False
+4521,Riya Singh,25,Hinjewadi,Residential,True,Low,1500,False,False,9,True
+6869,Sai Thakur,35,Baner,Residential,False,Medium,8000,False,True,27,False
+1183,Vivaan Gupta,27,Hinjewadi,Residential,True,Medium,5000,True,False,20,True
+9808,Madhuri Singh,41,Pune,Commercial,True,Low,1500,False,False,5,False
+7963,Yash Bhosale,57,Hadapsar,Residential,False,High,5000,False,True,19,False
+9698,Krishna Deshmukh,33,Shivajinagar,Farm,True,High,8000,True,False,16,False
+3761,Ananya Yadav,57,Hadapsar,Residential,True,Low,3000,True,True,6,True
+7191,Aditya Chavan,54,Bavdhan,Residential,False,Low,500,False,True,14,False
+5859,Ravi Deshmukh,59,Baner,Farm,True,High,8000,True,True,16,True
+4153,Reyansh Pawar,42,Baner,Commercial,True,Medium,5000,True,False,15,True
+3805,Aarav Chavan,29,Shivajinagar,Residential,True,Medium,3000,True,False,14,False
+3390,Yash Naik,38,Kedgaon,Farm,True,Medium,5000,False,True,29,False
+7664,Isha Naik,51,Bavdhan,Commercial,False,High,1500,False,False,23,False
+4375,Krishna Singh,57,Hinjewadi,Commercial,True,Medium,8000,True,False,3,True
+7546,Aisha Reddy,38,Shivajinagar,Farm,True,High,8000,False,True,10,True
+8325,Krishna Deshmukh,45,Aundh,Residential,False,High,500,False,False,23,False
+7108,Madhuri Kumar,42,Viman Nagar,Commercial,True,Medium,500,False,False,30,True
+4413,Pooja Jadhav,31,Aundh,Commercial,False,Medium,5000,True,False,25,True
+4302,Ravi Yadav,58,Hadapsar,Residential,False,High,8000,False,True,13,True
+6778,Riya Yadav,45,Shivajinagar,Commercial,False,High,8000,False,True,4,False
+3122,Arjun Sharma,30,Kothrud,Farm,True,Low,5000,False,True,26,False
+9500,Sai Kulkarni,34,Pune,Residential,True,Low,1500,False,False,23,False
+5510,Pooja Yadav,45,Pune,Commercial,True,Low,8000,False,False,13,True
+7529,Ananya Sharma,41,Kedgaon,Commercial,True,Low,1500,False,False,6,True
+1310,Isha Kulkarni,47,Viman Nagar,Commercial,False,Medium,1500,False,False,3,True
+3656,Isha Yadav,51,Shivajinagar,Farm,True,High,1500,True,False,30,True
+7657,Pooja Shetty,26,Baner,Residential,True,High,500,False,False,24,False
+3930,Aarav Chavan,44,Shivajinagar,Residential,False,Low,5000,True,False,2,False
+3877,Reyansh Naik,56,Aundh,Residential,True,Low,5000,True,True,21,False
+9733,Pooja Kulkarni,54,Hinjewadi,Commercial,False,Medium,8000,True,True,12,False
+9900,Aisha Chavan,44,Pune,Commercial,True,High,8000,False,False,9,False
+2825,Aisha Gupta,29,Hadapsar,Residential,False,High,5000,False,False,24,False
+3332,Madhuri Joshi,43,Hadapsar,Residential,True,Low,1500,False,False,19,True
+8200,Arjun Mehta,37,Kedgaon,Commercial,False,Low,3000,False,False,17,False
+3380,Sai Soni,47,Hadapsar,Farm,False,High,8000,False,False,5,False
+5893,Ravi Bhosale,59,Shivajinagar,Commercial,True,Low,8000,True,False,2,True
+4397,Rupal Reddy,59,Hinjewadi,Farm,True,High,500,False,True,25,False
+7543,Reyansh Joshi,47,Kedgaon,Farm,False,Medium,8000,False,False,24,True
+7149,Aarav Yadav,30,Viman Nagar,Farm,False,Medium,500,False,True,11,True
+4781,Isha Chavan,44,Hinjewadi,Residential,False,Medium,500,True,False,11,False
+4773,Sai Singh,35,Pune,Residential,False,Low,5000,False,False,15,True
+6448,Shruti Mehta,39,Pune,Farm,True,Low,3000,False,False,2,True
+9429,Ravi Thakur,59,Baner,Farm,False,Low,3000,True,False,5,False
+4835,Krishna Pawar,41,Bavdhan,Residential,True,Low,1500,False,False,28,True
+9792,Madhuri Pawar,47,Baner,Farm,True,Medium,1500,True,False,2,False
+6179,Madhuri Verma,28,Viman Nagar,Residential,False,High,5000,True,True,28,True
+2861,Ravi Singh,31,Aundh,Farm,True,Medium,500,False,True,22,False
+8369,Shaurya Gupta,48,Hadapsar,Farm,True,Low,1500,False,False,4,True
+3601,Aisha Mehta,37,Viman Nagar,Farm,True,Low,5000,False,True,8,False
+8785,Ananya Naik,56,Kedgaon,Farm,False,Medium,1500,False,True,2,False
+6445,Aarav Gupta,39,Kedgaon,Residential,True,Low,5000,False,True,30,True
+9037,Madhuri Deshmukh,28,Bavdhan,Farm,True,Low,500,True,True,12,False
+8060,Krishna Sharma,57,Viman Nagar,Commercial,False,Low,500,False,False,19,True
+9923,Isha Verma,36,Pune,Farm,True,Low,8000,False,True,8,False
+5544,Riya Soni,54,Pune,Residential,True,Low,3000,False,False,12,False
+6015,Riya Naik,43,Kothrud,Residential,True,Low,5000,True,True,18,False
+9872,Riya Sharma,39,Hinjewadi,Residential,False,Low,5000,False,False,15,True
+5755,Ananya Singh,50,Kothrud,Commercial,False,Medium,8000,False,False,17,False
+4990,Vivaan Shetty,33,Pune,Commercial,True,Medium,1500,True,False,19,False
+7186,Yash Reddy,44,Hadapsar,Farm,True,Low,3000,False,False,18,True
+2612,Ravi Shetty,37,Aundh,Commercial,True,High,5000,False,True,4,False
+9898,Madhuri Yadav,25,Baner,Farm,True,Low,500,False,False,25,False
+6184,Reyansh Gupta,46,Aundh,Commercial,True,High,3000,False,True,21,False
+1611,Shruti Mehta,38,Hinjewadi,Farm,True,High,8000,False,False,17,True
+6464,Ananya Pawar,29,Shivajinagar,Farm,False,High,3000,True,True,21,False
+8140,Arjun Deshmukh,58,Pune,Farm,False,Low,3000,False,False,18,True
+2555,Aisha Shetty,49,Aundh,Residential,False,High,1500,True,False,12,True
+4624,Krishna Bhosale,42,Baner,Commercial,True,High,500,False,False,16,False
+9793,Rupal Thakur,34,Hadapsar,Farm,True,Medium,1500,False,True,26,False
+2509,Tanya Pawar,48,Kothrud,Residential,True,Medium,8000,False,False,20,True
+6563,Nisha Kumar,54,Hadapsar,Commercial,True,Medium,1500,False,True,27,True
+5535,Arjun Naik,47,Kothrud,Commercial,True,Low,3000,False,True,5,True
+1273,Ravi Soni,56,Bavdhan,Residential,True,Low,3000,True,False,20,True
+1228,Riya Singh,46,Viman Nagar,Residential,False,Medium,3000,True,False,17,False
+8482,Krishna Jadhav,27,Kedgaon,Farm,False,High,5000,False,True,14,True
+3891,Aditya Gupta,52,Viman Nagar,Farm,True,High,1500,True,False,23,False
+5285,Krishna Kumar,36,Bavdhan,Residential,False,High,500,False,True,23,True
+6632,Arjun Verma,60,Baner,Residential,True,Low,8000,True,True,8,True
+6630,Isha Jadhav,36,Viman Nagar,Farm,True,Medium,5000,True,False,14,True
+5455,Aisha Pawar,57,Kothrud,Residential,False,High,8000,False,False,22,True
+1191,Krishna Gupta,54,Viman Nagar,Commercial,False,Low,8000,False,False,4,False
+8778,Sai Shetty,37,Viman Nagar,Farm,False,High,3000,True,True,12,True
+2925,Aarav Kulkarni,40,Pune,Commercial,False,Low,8000,False,False,22,True
+7432,Aditya Chavan,53,Kedgaon,Farm,False,Medium,8000,False,False,4,True
+3808,Aditya Naik,45,Hinjewadi,Farm,True,Medium,5000,False,True,11,True
+8478,Ananya Singh,51,Bavdhan,Residential,True,Low,500,True,False,3,True
+6579,Sai Pawar,26,Bavdhan,Residential,False,High,8000,False,True,16,False
+8670,Isha Yadav,53,Baner,Commercial,False,Low,5000,True,True,20,False
+2442,Shaurya Yadav,57,Viman Nagar,Residential,False,High,8000,False,False,16,True
+8684,Isha Deshmukh,46,Hinjewadi,Residential,True,Low,500,True,True,24,False
+8426,Isha Pawar,28,Kothrud,Farm,True,Low,8000,True,True,24,False
+5805,Aditya Patil,54,Hinjewadi,Farm,False,High,3000,False,True,30,False
+7473,Vivaan Pawar,56,Shivajinagar,Commercial,True,Medium,5000,True,False,15,False
+9148,Isha Naik,59,Hadapsar,Commercial,True,High,8000,True,False,27,True
+4468,Ravi Pawar,37,Kedgaon,Commercial,True,Medium,1500,False,False,12,False
+6370,Sai Bhosale,46,Shivajinagar,Farm,False,Low,3000,True,False,10,False
+2541,Rupal Chavan,41,Baner,Commercial,False,Low,3000,False,False,20,False
+8775,Sai Mehta,48,Kothrud,Commercial,True,Medium,5000,True,False,2,True
+9852,Aisha Mehta,30,Bavdhan,Residential,False,Medium,5000,True,False,21,False
+6871,Aditya Thakur,37,Hadapsar,Commercial,True,Low,5000,False,False,4,True
+2270,Sai Jadhav,25,Hinjewadi,Farm,False,High,1500,True,True,12,False
+5202,Aarav Soni,55,Kothrud,Residential,True,High,500,True,True,2,True
+1891,Vivaan Pawar,44,Pune,Residential,True,Low,5000,False,False,14,True
+2797,Ravi Bhosale,40,Viman Nagar,Farm,True,High,3000,False,True,3,True
+2768,Vivaan Deshmukh,25,Hinjewadi,Residential,False,Medium,8000,False,True,9,True
+2514,Shaurya Yadav,46,Aundh,Residential,True,Medium,8000,True,True,19,True
+1488,Aisha Sharma,56,Bavdhan,Farm,False,Medium,8000,True,True,4,True
+4872,Madhuri Thakur,52,Pune,Residential,True,High,1500,False,True,25,False
+4263,Aarav Mehta,56,Hadapsar,Farm,True,Medium,500,True,False,15,False
+3636,Aditya Sharma,29,Pune,Farm,True,Low,1500,False,True,11,True
+1534,Aditya Singh,27,Bavdhan,Commercial,False,High,8000,True,False,9,True
+5483,Aisha Kulkarni,57,Aundh,Commercial,True,Medium,8000,False,True,15,False
+9041,Aditya Chavan,46,Viman Nagar,Farm,True,Medium,500,True,True,20,True
+2639,Aarav Deshmukh,54,Kothrud,Commercial,True,Medium,1500,False,False,7,False
+7203,Aditya Joshi,46,Shivajinagar,Commercial,False,High,1500,False,False,2,True
+5105,Nisha Gupta,28,Bavdhan,Commercial,False,High,5000,True,True,14,True
+3793,Tanya Kumar,30,Hadapsar,Commercial,True,Low,5000,True,True,26,True
+5596,Madhuri Verma,58,Hinjewadi,Residential,False,High,3000,True,True,24,True
+1564,Arjun Verma,42,Hinjewadi,Commercial,True,Medium,500,False,False,30,True
+5491,Aarav Yadav,45,Hinjewadi,Farm,False,High,1500,True,True,2,True
+8650,Arjun Kumar,39,Baner,Residential,True,Low,5000,False,True,2,True
+5180,Nisha Shetty,56,Shivajinagar,Farm,True,Low,8000,True,True,17,False
+2748,Vivaan Joshi,42,Viman Nagar,Commercial,False,Low,5000,True,True,17,False
+6432,Aditya Yadav,49,Shivajinagar,Commercial,False,Medium,8000,True,False,15,False
+6640,Vivaan Kulkarni,26,Hinjewadi,Farm,True,Medium,5000,True,True,3,True
+6560,Vivaan Joshi,52,Shivajinagar,Residential,True,Low,1500,True,False,7,True
+2624,Ananya Mehta,26,Kothrud,Farm,True,Medium,1500,True,True,25,False
+9285,Vivaan Chavan,31,Bavdhan,Commercial,True,Low,500,True,True,13,False
+6976,Nisha Thakur,43,Bavdhan,Farm,False,Medium,1500,True,True,25,False
+6192,Aarav Gupta,35,Viman Nagar,Residential,True,Low,5000,False,True,29,False
+2801,Nisha Patil,39,Pune,Commercial,True,High,8000,False,False,11,True
+9908,Madhuri Kulkarni,30,Shivajinagar,Farm,True,High,3000,True,False,21,True
+8897,Yash Deshmukh,28,Bavdhan,Residential,False,High,3000,True,True,19,False
+3154,Nisha Patil,60,Kothrud,Commercial,True,Low,5000,False,True,9,True
+9905,Sai Thakur,29,Viman Nagar,Farm,False,Low,1500,True,True,28,False
+3302,Reyansh Sharma,27,Viman Nagar,Commercial,False,Low,3000,True,False,6,True
+7945,Madhuri Kumar,32,Baner,Commercial,True,Medium,500,False,True,29,True
+1602,Reyansh Singh,28,Kothrud,Residential,False,Low,8000,True,True,14,True
+3154,Vivaan Joshi,39,Baner,Farm,False,Low,5000,False,False,26,False
+7649,Isha Sharma,50,Hinjewadi,Commercial,True,Medium,3000,False,True,11,False
+3813,Arjun Shetty,30,Bavdhan,Residential,True,Medium,5000,True,False,4,False
+3356,Tanya Jadhav,29,Shivajinagar,Farm,True,High,500,False,True,26,True
+3000,Isha Singh,34,Baner,Residential,False,Medium,500,False,False,10,True
+8288,Krishna Jadhav,33,Viman Nagar,Commercial,True,Medium,8000,False,False,1,True
+7059,Shruti Mehta,57,Baner,Residential,True,Low,8000,True,True,16,False
+3835,Nisha Patil,38,Hadapsar,Residential,False,Low,500,True,False,26,True
+1581,Pooja Pawar,25,Viman Nagar,Commercial,True,Medium,8000,False,True,24,False
+6573,Krishna Naik,29,Kedgaon,Residential,False,Low,5000,True,False,25,True
+4540,Isha Naik,37,Pune,Farm,False,Medium,3000,True,True,23,False
+6257,Vivaan Gupta,44,Hadapsar,Commercial,True,High,5000,False,True,27,False
+1027,Aisha Bhosale,57,Hadapsar,Residential,False,High,8000,True,False,8,False
+4296,Aisha Sharma,54,Hadapsar,Residential,False,High,5000,True,True,5,True
+9144,Reyansh Yadav,49,Baner,Farm,False,High,3000,False,False,14,False
+6595,Yash Deshmukh,41,Kedgaon,Farm,False,Low,8000,True,True,30,True
+8570,Rupal Joshi,44,Viman Nagar,Commercial,True,Medium,3000,False,False,2,True
+5738,Aarav Naik,59,Hinjewadi,Residential,True,Medium,5000,False,False,4,True
+9440,Tanya Gupta,56,Kothrud,Residential,True,High,500,False,True,16,True
+4730,Aisha Kulkarni,26,Shivajinagar,Commercial,True,Medium,500,True,False,23,False
+2438,Isha Chavan,27,Baner,Commercial,False,Low,3000,False,True,27,False
+9241,Sai Verma,40,Kothrud,Farm,True,High,8000,True,False,17,False
+8579,Aditya Kulkarni,32,Viman Nagar,Residential,False,High,500,False,True,8,False
+3328,Shaurya Verma,49,Shivajinagar,Commercial,False,High,8000,False,False,5,False
+5770,Shaurya Gupta,30,Kothrud,Farm,False,Medium,3000,True,True,7,False
+8987,Rupal Jadhav,55,Bavdhan,Commercial,True,Low,3000,False,False,10,True
+3220,Aarav Shetty,39,Aundh,Commercial,True,High,5000,True,True,28,True
+4834,Yash Pawar,34,Viman Nagar,Residential,True,Low,5000,True,False,27,True
+2327,Reyansh Yadav,32,Aundh,Commercial,False,High,5000,False,True,12,True
+8407,Nisha Gupta,51,Hadapsar,Commercial,True,Medium,5000,False,False,16,False
+5262,Tanya Thakur,52,Shivajinagar,Residential,True,High,3000,True,False,28,False
+5484,Riya Gupta,47,Viman Nagar,Farm,False,Low,500,False,False,17,False
+8579,Ananya Kulkarni,27,Kedgaon,Residential,False,High,8000,False,True,23,True
+6875,Riya Yadav,39,Bavdhan,Commercial,False,Low,500,False,False,10,False
+2124,Nisha Shetty,49,Aundh,Farm,False,Medium,8000,False,False,30,False
+2040,Ananya Naik,44,Aundh,Farm,False,High,1500,False,False,16,True
+7088,Nisha Reddy,35,Bavdhan,Farm,True,High,3000,True,True,29,False
+5348,Isha Jadhav,60,Viman Nagar,Commercial,True,Medium,3000,False,True,23,False
+9916,Aarav Soni,29,Kedgaon,Farm,True,High,3000,False,False,26,False
+6215,Madhuri Pawar,60,Baner,Residential,True,Low,8000,True,False,8,False
+7168,Isha Soni,39,Hadapsar,Farm,True,Medium,3000,True,False,7,True
+5599,Ravi Mehta,36,Viman Nagar,Commercial,True,High,8000,True,False,21,True
+4308,Rupal Soni,44,Viman Nagar,Commercial,False,High,5000,False,False,14,False
+7054,Madhuri Bhosale,58,Pune,Residential,True,Low,500,False,False,8,False
+7642,Aditya Patil,30,Hinjewadi,Farm,True,Medium,500,False,True,15,True
+5615,Tanya Thakur,43,Hadapsar,Farm,False,Low,3000,False,True,3,False
+6847,Shaurya Singh,50,Baner,Farm,False,High,3000,False,False,20,True
+6714,Madhuri Shetty,52,Pune,Residential,True,Low,3000,False,False,1,False
+6892,Krishna Singh,41,Kedgaon,Residential,False,Medium,8000,True,True,24,True
+6739,Yash Shetty,47,Pune,Commercial,True,Low,1500,True,True,2,True
+4758,Aditya Reddy,37,Baner,Residential,True,Low,5000,True,True,14,True
+4352,Arjun Bhosale,56,Shivajinagar,Commercial,False,High,500,True,False,7,True
+2650,Ananya Shetty,56,Viman Nagar,Commercial,True,High,500,False,True,19,False
+5168,Krishna Bhosale,46,Aundh,Farm,True,Medium,500,True,True,11,False
+8376,Shaurya Shetty,44,Hinjewadi,Commercial,True,Medium,1500,True,False,9,False
+5539,Sai Naik,51,Bavdhan,Residential,False,Medium,8000,True,True,1,True
+9100,Ravi Soni,27,Pune,Commercial,True,Medium,5000,False,False,21,False
+1952,Nisha Deshmukh,44,Bavdhan,Commercial,True,Low,1500,False,False,23,False
+1495,Krishna Bhosale,58,Aundh,Residential,True,Medium,5000,False,True,2,False
+4947,Riya Jadhav,36,Kothrud,Residential,True,High,8000,False,True,7,False
+4681,Shaurya Yadav,31,Bavdhan,Farm,True,High,5000,False,False,11,True
+9655,Reyansh Thakur,55,Baner,Commercial,True,Medium,1500,True,True,25,False
+9177,Tanya Kumar,39,Hadapsar,Commercial,True,High,1500,False,True,2,True
+6648,Isha Bhosale,45,Hadapsar,Commercial,True,Medium,1500,False,True,22,True
+9937,Ananya Reddy,29,Kedgaon,Farm,True,High,3000,True,True,6,False
+5809,Sai Bhosale,37,Kothrud,Commercial,True,High,500,False,False,1,False
+7634,Aditya Joshi,40,Shivajinagar,Farm,True,High,5000,True,False,4,False
+4893,Sai Mehta,59,Viman Nagar,Farm,False,Medium,5000,False,True,30,False
+6787,Reyansh Mehta,57,Viman Nagar,Farm,False,Medium,1500,True,False,21,False
+3999,Aisha Reddy,30,Viman Nagar,Farm,False,High,500,True,False,26,True
+3965,Shruti Deshmukh,28,Baner,Commercial,True,Low,3000,True,False,20,True
+1860,Vivaan Chavan,59,Baner,Commercial,True,High,8000,False,False,29,True
+4222,Ananya Singh,31,Shivajinagar,Residential,False,High,8000,True,True,8,False
+4755,Vivaan Shetty,30,Hinjewadi,Farm,True,High,5000,True,True,8,True
+6775,Arjun Kulkarni,26,Aundh,Farm,True,High,500,False,False,17,False
+2594,Vivaan Chavan,34,Bavdhan,Commercial,True,Medium,1500,True,False,2,True
+1936,Vivaan Kumar,38,Hadapsar,Commercial,False,High,3000,False,False,15,False
+1893,Madhuri Naik,28,Kothrud,Residential,False,High,5000,True,False,13,True
+1337,Yash Patil,44,Hinjewadi,Farm,False,High,1500,False,True,2,False
+5267,Pooja Soni,54,Bavdhan,Residential,False,Medium,8000,False,False,9,False
+7387,Nisha Mehta,55,Kedgaon,Farm,True,High,3000,True,True,12,True
+4319,Shaurya Reddy,36,Hadapsar,Residential,False,High,500,False,False,10,True
+8530,Rupal Verma,30,Viman Nagar,Farm,True,Low,8000,False,False,16,False
+9990,Aditya Chavan,60,Kothrud,Farm,False,High,8000,True,True,18,False
+4741,Isha Singh,58,Pune,Farm,True,High,500,False,False,4,False
+7308,Riya Gupta,35,Baner,Residential,False,Low,500,True,False,27,False
+4704,Arjun Chavan,56,Hinjewadi,Residential,True,Low,8000,False,True,12,False
+3463,Krishna Yadav,34,Viman Nagar,Residential,False,High,3000,True,False,29,False
+4567,Ananya Patil,53,Baner,Residential,True,Medium,1500,False,True,5,True
+1027,Yash Kumar,35,Hinjewadi,Residential,False,Medium,1500,False,False,18,True
+1416,Aisha Joshi,27,Hinjewadi,Farm,False,Low,3000,True,False,16,True
+5864,Madhuri Reddy,59,Shivajinagar,Commercial,True,Medium,500,False,True,20,False
+4033,Madhuri Deshmukh,52,Kothrud,Residential,False,High,3000,False,False,13,True
+7699,Aarav Kulkarni,60,Shivajinagar,Commercial,True,Low,3000,False,False,16,True
+1210,Pooja Patil,60,Pune,Residential,False,Medium,5000,False,True,11,False
+6433,Riya Singh,31,Aundh,Commercial,False,High,3000,False,False,3,False
+1071,Tanya Patil,34,Kothrud,Farm,False,High,5000,False,True,20,False
+5741,Sai Shetty,26,Kothrud,Farm,False,High,1500,False,False,19,True
+8141,Shruti Mehta,37,Viman Nagar,Farm,True,High,5000,False,False,14,True
+9508,Nisha Mehta,53,Pune,Residential,False,High,8000,False,True,15,False
+7467,Tanya Chavan,49,Baner,Farm,True,Medium,8000,True,True,2,True
+8064,Sai Naik,42,Hinjewadi,Residential,True,Medium,8000,True,False,26,False
+3638,Shruti Thakur,48,Kedgaon,Residential,True,Low,500,False,True,20,False
+9459,Shaurya Yadav,44,Aundh,Farm,True,High,5000,True,False,5,True
+7178,Madhuri Bhosale,46,Kothrud,Commercial,True,High,5000,False,False,15,True
+2063,Riya Chavan,34,Viman Nagar,Commercial,False,Medium,1500,False,False,9,False
+5898,Riya Bhosale,38,Hadapsar,Farm,True,High,500,True,False,17,False
+8446,Ananya Verma,46,Kothrud,Farm,True,Medium,1500,False,False,11,True
+8099,Aditya Naik,28,Hinjewadi,Residential,True,Low,1500,True,True,3,False
+3587,Aditya Verma,41,Shivajinagar,Farm,False,Low,8000,True,True,17,True
+7781,Yash Thakur,46,Hadapsar,Farm,True,High,1500,True,False,4,False
+5963,Ravi Patil,29,Shivajinagar,Farm,True,Medium,8000,False,True,8,False
+4390,Ananya Naik,33,Hinjewadi,Commercial,False,Low,1500,True,True,10,False
+8948,Pooja Patil,49,Hadapsar,Residential,True,Medium,8000,False,False,29,True
+6372,Shruti Reddy,53,Shivajinagar,Commercial,True,Low,8000,True,False,18,False
+8148,Yash Bhosale,38,Hadapsar,Residential,False,High,8000,False,False,6,False
+7376,Ravi Yadav,46,Shivajinagar,Commercial,True,High,3000,True,True,15,True
+2280,Yash Yadav,40,Bavdhan,Farm,True,Low,8000,True,False,5,True
+4839,Vivaan Sharma,28,Aundh,Residential,True,Low,1500,False,True,12,False
+4079,Aditya Thakur,36,Pune,Farm,True,Low,5000,True,False,13,True
+9038,Reyansh Thakur,38,Kothrud,Commercial,False,Medium,3000,False,True,13,False
+4430,Shaurya Joshi,56,Kedgaon,Farm,False,Medium,500,True,True,8,False
+2714,Pooja Reddy,56,Viman Nagar,Farm,False,Medium,1500,False,False,25,True
+9536,Aarav Mehta,25,Kothrud,Commercial,True,Low,8000,False,True,16,True
+8104,Isha Jadhav,55,Aundh,Residential,False,High,3000,False,False,8,True
+5676,Yash Thakur,35,Viman Nagar,Farm,True,Medium,8000,False,True,1,False
+2175,Pooja Mehta,53,Bavdhan,Commercial,True,Low,500,False,True,17,True
+5164,Aarav Jadhav,50,Viman Nagar,Commercial,False,Low,3000,True,True,12,True
+1045,Aarav Soni,43,Hinjewadi,Commercial,False,Medium,5000,True,False,4,False
+9431,Vivaan Chavan,47,Hadapsar,Commercial,False,Medium,500,True,False,19,False
+5774,Yash Thakur,35,Kothrud,Farm,True,Low,5000,False,True,24,True
+4271,Krishna Patil,49,Viman Nagar,Farm,True,High,1500,True,True,28,True
+5319,Ravi Naik,25,Hinjewadi,Farm,True,Medium,1500,False,False,13,True
+5736,Aditya Soni,30,Kedgaon,Farm,True,High,5000,False,False,29,True
+5868,Rupal Verma,42,Kedgaon,Commercial,True,Medium,1500,False,False,23,True
+7717,Reyansh Shetty,28,Hinjewadi,Commercial,True,Low,1500,False,True,21,True
+7536,Ananya Kumar,60,Kedgaon,Residential,True,Medium,3000,False,True,2,True
+9225,Tanya Thakur,38,Bavdhan,Commercial,True,Medium,5000,True,True,12,False
+1572,Yash Mehta,56,Kedgaon,Commercial,False,Low,5000,True,False,23,True
+4126,Pooja Singh,59,Kothrud,Residential,False,Medium,1500,True,False,1,True
+9564,Krishna Shetty,28,Hinjewadi,Farm,True,Medium,500,True,True,3,True
+3317,Madhuri Naik,59,Hinjewadi,Residential,True,Low,500,True,True,12,False
+7117,Madhuri Deshmukh,45,Kedgaon,Commercial,True,Low,1500,True,True,21,True
+6983,Rupal Naik,26,Bavdhan,Residential,True,High,3000,False,False,26,False
+5352,Aisha Deshmukh,39,Kothrud,Residential,False,Medium,5000,False,True,14,True
+9458,Madhuri Soni,57,Hinjewadi,Farm,True,High,8000,False,False,6,True
+7807,Shruti Kulkarni,30,Hadapsar,Farm,True,Medium,5000,False,True,22,False
+7423,Ananya Yadav,30,Shivajinagar,Commercial,False,Low,8000,False,False,7,False
+3169,Isha Sharma,40,Hinjewadi,Farm,True,High,500,True,False,11,True
+4435,Arjun Shetty,59,Pune,Farm,True,High,500,True,True,21,False
+8595,Aarav Kumar,34,Aundh,Commercial,True,High,500,False,True,5,True
+7867,Isha Reddy,52,Kedgaon,Farm,False,Low,3000,True,False,13,True
+6203,Shruti Singh,34,Kothrud,Residential,True,High,3000,True,False,29,False
+9234,Madhuri Yadav,32,Pune,Farm,False,Low,1500,False,False,24,False
+4093,Isha Bhosale,41,Pune,Farm,False,Low,1500,True,True,24,True
+3408,Nisha Joshi,48,Kothrud,Commercial,True,High,500,True,False,21,True
+1130,Riya Jadhav,55,Hinjewadi,Residential,True,High,500,False,False,17,True
+4023,Shruti Yadav,36,Hinjewadi,Residential,True,Low,500,False,True,18,False
+1500,Madhuri Naik,56,Hinjewadi,Farm,True,Low,5000,False,False,3,False
+3323,Sai Mehta,56,Kedgaon,Residential,True,Medium,1500,True,True,8,False
+1769,Arjun Joshi,54,Hadapsar,Commercial,True,Low,8000,False,False,20,True
+1214,Tanya Kulkarni,41,Shivajinagar,Residential,True,High,5000,False,False,14,True
+8490,Shruti Reddy,39,Bavdhan,Farm,True,Medium,1500,True,False,4,False
+6721,Madhuri Yadav,35,Kedgaon,Residential,False,Medium,1500,True,False,16,False
+5577,Yash Jadhav,44,Hinjewadi,Commercial,True,High,500,True,True,1,True
+8758,Aarav Verma,35,Hadapsar,Commercial,True,High,1500,True,False,29,False
+7441,Sai Chavan,59,Viman Nagar,Commercial,False,Medium,3000,False,False,17,True
+5150,Rupal Pawar,53,Hadapsar,Residential,False,High,8000,False,True,30,True
+6105,Reyansh Jadhav,27,Bavdhan,Commercial,True,High,1500,False,False,19,False
+3629,Reyansh Mehta,26,Hinjewadi,Residential,False,Medium,1500,False,False,4,False
+4711,Vivaan Jadhav,26,Baner,Residential,True,High,3000,True,True,13,False
+8654,Shruti Soni,36,Aundh,Farm,False,High,500,True,True,18,True
+9389,Arjun Kumar,45,Hadapsar,Commercial,False,High,8000,False,True,11,True
+9251,Tanya Gupta,34,Hinjewadi,Residential,True,Medium,8000,True,False,8,False
+7468,Nisha Pawar,36,Aundh,Farm,True,High,500,True,False,11,False
+5807,Ravi Verma,55,Bavdhan,Residential,True,Low,1500,True,True,3,False
+6427,Isha Chavan,59,Aundh,Commercial,True,High,500,True,False,7,False
+4879,Ananya Sharma,39,Kedgaon,Residential,False,Medium,3000,True,False,1,True
+3525,Tanya Jadhav,59,Viman Nagar,Residential,True,Medium,5000,False,True,16,True
+3337,Ananya Singh,60,Shivajinagar,Farm,True,Medium,500,True,False,8,True
+4236,Shruti Pawar,41,Kedgaon,Residential,True,Low,8000,True,False,22,False
+2650,Aditya Jadhav,42,Viman Nagar,Farm,True,Medium,1500,True,False,9,False
+5714,Ananya Mehta,34,Kothrud,Residential,False,High,8000,False,False,15,False
+1586,Nisha Thakur,60,Hadapsar,Commercial,False,High,8000,False,True,21,True
+9132,Madhuri Jadhav,46,Hadapsar,Residential,False,Low,3000,True,False,21,False
+1633,Arjun Bhosale,33,Shivajinagar,Farm,True,Medium,1500,False,True,17,True
+6320,Ananya Singh,33,Viman Nagar,Farm,True,Medium,1500,False,False,11,False
+8550,Isha Sharma,28,Hadapsar,Farm,False,Medium,3000,False,True,7,True
+8984,Madhuri Deshmukh,28,Hinjewadi,Commercial,False,Medium,500,False,False,28,False
+8640,Shruti Pawar,26,Kothrud,Farm,False,Medium,1500,False,True,19,True
+3113,Tanya Jadhav,35,Hadapsar,Commercial,True,High,8000,True,False,16,True
+5662,Pooja Shetty,33,Hadapsar,Commercial,True,Medium,8000,True,True,26,True
+3488,Isha Thakur,54,Hinjewadi,Farm,False,Low,3000,False,False,21,False
+1593,Arjun Pawar,57,Pune,Commercial,True,Medium,5000,True,True,1,True
+3315,Nisha Bhosale,58,Kedgaon,Farm,False,Medium,3000,True,True,6,False
+9944,Rupal Joshi,60,Baner,Residential,True,High,5000,False,True,5,True
+2398,Reyansh Verma,38,Kothrud,Farm,False,High,1500,True,True,14,True
+7847,Yash Verma,27,Pune,Farm,False,Medium,500,False,True,19,True
+5993,Ravi Jadhav,46,Baner,Farm,True,Low,8000,False,False,4,False
+5454,Riya Joshi,30,Pune,Farm,True,Low,3000,False,False,9,True
+3877,Sai Kulkarni,51,Aundh,Commercial,False,Medium,1500,True,True,1,True
+5433,Shaurya Patil,47,Aundh,Commercial,False,High,3000,False,True,7,False
+5969,Shaurya Mehta,46,Kothrud,Residential,False,High,1500,False,True,15,True
+2185,Riya Shetty,35,Viman Nagar,Farm,True,Medium,500,False,False,9,True
+2695,Pooja Soni,30,Kedgaon,Commercial,True,Medium,3000,False,True,22,True
+6108,Yash Kulkarni,59,Pune,Residential,False,Medium,3000,True,False,4,False
+5916,Shruti Gupta,57,Hadapsar,Commercial,True,Low,3000,True,True,26,False
+2757,Ananya Naik,33,Viman Nagar,Commercial,True,High,1500,True,True,17,False
+9749,Sai Joshi,52,Hinjewadi,Farm,False,Medium,8000,True,False,17,False
+2272,Ravi Pawar,55,Hinjewadi,Residential,True,Low,8000,True,False,28,True
+2717,Rupal Verma,58,Bavdhan,Residential,True,Medium,3000,False,False,15,False
+9467,Pooja Kulkarni,46,Hinjewadi,Commercial,False,Low,3000,True,True,12,False
+7984,Vivaan Naik,39,Kedgaon,Farm,True,High,8000,False,False,17,False
+2898,Aarav Gupta,55,Pune,Residential,False,Medium,1500,False,False,17,False
+8931,Vivaan Sharma,57,Viman Nagar,Commercial,True,High,8000,True,True,16,True
+9351,Vivaan Kumar,40,Hinjewadi,Commercial,False,Medium,3000,True,True,8,False
+3032,Ravi Singh,32,Aundh,Farm,False,Medium,5000,True,False,14,True
+5413,Madhuri Verma,50,Kothrud,Residential,True,Low,8000,False,False,12,False
+3414,Madhuri Pawar,48,Shivajinagar,Commercial,False,Low,5000,True,True,30,True
+1113,Yash Mehta,57,Bavdhan,Residential,False,Medium,1500,True,True,24,False
+5188,Arjun Yadav,27,Shivajinagar,Residential,False,Low,8000,True,True,30,False
+9829,Krishna Reddy,30,Hadapsar,Residential,False,Low,1500,False,False,27,False
+3306,Isha Mehta,55,Aundh,Residential,False,Low,3000,False,True,16,True
+3694,Yash Shetty,30,Hadapsar,Farm,False,Low,500,False,True,16,True
+3247,Riya Patil,60,Hinjewadi,Farm,True,Medium,5000,True,False,10,True
+5679,Aisha Mehta,54,Pune,Residential,False,High,5000,True,True,24,True
+8871,Aditya Bhosale,34,Viman Nagar,Farm,True,High,3000,True,True,26,True
+2971,Madhuri Patil,53,Pune,Residential,False,High,1500,True,False,14,True
+4518,Yash Bhosale,29,Bavdhan,Commercial,False,Medium,8000,True,True,9,False
+1073,Nisha Patil,26,Shivajinagar,Commercial,False,Medium,5000,False,True,29,True
+7210,Madhuri Verma,35,Hinjewadi,Residential,True,Medium,3000,False,False,7,True
+6905,Tanya Shetty,34,Pune,Farm,True,High,500,False,True,29,False
+1642,Pooja Soni,26,Viman Nagar,Residential,True,Medium,5000,True,True,21,True
+3748,Shruti Shetty,25,Aundh,Farm,True,High,5000,True,True,16,True
+9579,Yash Singh,54,Hinjewadi,Residential,True,Low,5000,True,False,14,False
+9427,Sai Thakur,26,Hadapsar,Residential,False,Medium,500,True,False,9,True
+5300,Rupal Soni,57,Shivajinagar,Farm,False,Low,500,True,True,27,True
+4256,Tanya Sharma,51,Shivajinagar,Commercial,True,High,3000,False,True,24,True
+6844,Aisha Patil,42,Hinjewadi,Residential,True,High,500,True,False,20,False
+9338,Reyansh Singh,36,Hadapsar,Residential,True,Low,5000,True,False,25,False
+8843,Pooja Kumar,50,Aundh,Farm,False,Medium,500,False,False,8,False
+7064,Rupal Shetty,52,Kedgaon,Farm,True,Medium,1500,True,False,6,False
+9322,Shruti Deshmukh,60,Baner,Farm,True,Low,8000,True,True,5,False
+4215,Madhuri Sharma,29,Hinjewadi,Residential,False,Medium,1500,True,False,27,False
+9501,Riya Kulkarni,51,Hinjewadi,Farm,False,Low,500,True,False,1,False
+8340,Riya Yadav,35,Baner,Farm,False,Medium,8000,False,True,4,True
+7667,Vivaan Pawar,48,Viman Nagar,Farm,True,High,8000,False,True,9,True
+7970,Yash Jadhav,37,Shivajinagar,Commercial,True,High,500,False,True,7,False
+3149,Arjun Singh,47,Bavdhan,Commercial,True,Low,8000,True,True,20,False
+3134,Ravi Patil,25,Hadapsar,Farm,True,Low,500,False,True,28,True
+3615,Yash Sharma,44,Kedgaon,Farm,False,Medium,8000,True,True,27,True
+4273,Shruti Shetty,37,Pune,Farm,False,Medium,500,True,True,5,False
+9609,Krishna Thakur,38,Hinjewadi,Residential,False,Low,1500,True,True,13,True
+1875,Isha Shetty,32,Hadapsar,Commercial,False,High,5000,False,False,23,False
+7313,Yash Singh,47,Viman Nagar,Farm,True,High,5000,True,True,1,False
+7653,Nisha Shetty,55,Hinjewadi,Residential,True,Medium,1500,False,False,5,True
+8903,Nisha Kumar,46,Hinjewadi,Farm,True,Medium,1500,True,True,3,True
+3331,Vivaan Sharma,48,Hinjewadi,Residential,True,Low,500,False,False,9,False
+1250,Ravi Joshi,55,Baner,Commercial,False,Medium,1500,True,True,25,False
+5093,Ananya Verma,37,Bavdhan,Commercial,True,Medium,3000,True,False,26,True
+3584,Aarav Soni,60,Hadapsar,Residential,True,High,3000,False,True,23,False
+7819,Shaurya Soni,25,Shivajinagar,Farm,True,Medium,8000,False,True,22,False
+3872,Tanya Shetty,57,Baner,Farm,False,Low,1500,False,False,2,False
+9442,Vivaan Naik,58,Hadapsar,Residential,False,High,5000,True,False,24,True
+4882,Krishna Mehta,45,Viman Nagar,Commercial,True,Low,1500,True,True,8,False
+7317,Aisha Verma,53,Hinjewadi,Farm,False,Medium,3000,True,False,11,True
+5561,Isha Jadhav,46,Kedgaon,Residential,False,Medium,8000,True,False,7,False
+6142,Ravi Gupta,43,Pune,Residential,False,High,500,False,True,26,True
+5584,Isha Joshi,34,Kothrud,Residential,True,High,1500,False,False,9,True
+3656,Riya Pawar,47,Shivajinagar,Commercial,True,Medium,500,False,True,5,False
+8112,Isha Sharma,40,Viman Nagar,Commercial,False,Medium,5000,False,False,8,False
+5628,Ravi Gupta,29,Shivajinagar,Commercial,True,Medium,1500,True,True,17,False
+7594,Shaurya Pawar,35,Kedgaon,Residential,False,Medium,3000,False,True,23,False
+8408,Nisha Naik,49,Kedgaon,Commercial,True,Medium,5000,True,True,17,True
+3623,Krishna Reddy,59,Viman Nagar,Farm,True,Medium,3000,True,True,30,False
+6222,Ravi Reddy,58,Aundh,Farm,False,Medium,500,False,True,8,False
+1558,Shaurya Kulkarni,58,Bavdhan,Farm,False,Low,1500,True,False,14,False
+3616,Pooja Thakur,47,Shivajinagar,Residential,False,Medium,1500,False,False,4,False
+6806,Reyansh Gupta,47,Aundh,Farm,False,Medium,8000,False,False,8,True
+9419,Madhuri Chavan,43,Viman Nagar,Farm,False,Low,8000,True,True,4,False
+3213,Shaurya Soni,27,Hinjewadi,Commercial,False,Low,500,True,True,17,True
+1226,Arjun Kumar,57,Bavdhan,Farm,False,Low,1500,False,False,6,True
+4852,Yash Naik,40,Hinjewadi,Farm,False,Low,500,False,False,22,False
+7954,Shruti Thakur,53,Kothrud,Residential,False,Low,8000,False,True,26,True
+2083,Nisha Pawar,41,Viman Nagar,Residential,True,Low,1500,True,False,6,True
+8362,Aarav Joshi,42,Hadapsar,Residential,False,High,8000,False,False,7,False
+6876,Ravi Joshi,42,Baner,Commercial,True,Low,500,False,True,15,True
+2014,Sai Joshi,41,Hinjewadi,Commercial,False,Low,8000,False,True,25,False
+4551,Sai Joshi,56,Kothrud,Farm,True,High,1500,False,True,11,False
+8844,Ravi Singh,41,Kothrud,Farm,True,Low,5000,False,False,28,True
+7515,Aarav Sharma,29,Kothrud,Farm,True,Medium,1500,True,False,27,False
+1066,Vivaan Sharma,58,Baner,Residential,False,High,500,True,True,15,False
+5710,Isha Singh,31,Bavdhan,Commercial,True,High,8000,True,False,8,False
+2082,Rupal Yadav,55,Hinjewadi,Farm,True,Medium,500,False,True,22,True
+7742,Sai Verma,37,Aundh,Commercial,False,High,8000,True,False,22,True
+9214,Rupal Soni,40,Pune,Residential,True,High,5000,False,True,6,True
+6063,Vivaan Kumar,29,Pune,Residential,False,Medium,1500,True,False,29,False
+6665,Ravi Naik,58,Shivajinagar,Farm,True,Medium,8000,False,True,5,True
+9106,Tanya Deshmukh,30,Shivajinagar,Commercial,True,High,3000,True,False,24,False
+6793,Shruti Naik,47,Hinjewadi,Commercial,True,Medium,1500,True,False,23,False
+5674,Riya Shetty,38,Aundh,Commercial,True,Low,5000,True,False,21,False
+8137,Riya Pawar,49,Hadapsar,Residential,True,High,8000,True,True,5,True
+2794,Nisha Patil,56,Shivajinagar,Commercial,True,Low,1500,False,False,1,False
+5447,Sai Singh,53,Shivajinagar,Farm,False,High,500,True,True,11,False
+9819,Isha Chavan,27,Kedgaon,Residential,True,Medium,500,False,True,30,False
+8467,Arjun Verma,43,Kedgaon,Residential,False,High,8000,False,False,13,False
+9951,Madhuri Naik,29,Kedgaon,Farm,False,High,500,False,False,29,False
+7950,Nisha Joshi,46,Kedgaon,Commercial,False,Medium,3000,True,False,24,True
+5852,Pooja Kumar,48,Kothrud,Residential,False,Low,3000,False,False,16,True
+5098,Arjun Soni,40,Shivajinagar,Commercial,True,Low,3000,False,False,2,True
+8269,Krishna Patil,28,Kothrud,Commercial,False,Medium,8000,False,True,25,True
+3084,Shaurya Kulkarni,52,Baner,Farm,False,High,3000,False,True,23,True
+9591,Yash Kumar,40,Hadapsar,Commercial,False,Low,3000,False,True,30,False
+7705,Reyansh Sharma,48,Bavdhan,Commercial,True,Medium,500,False,False,2,True
+2067,Madhuri Singh,37,Aundh,Farm,False,Medium,1500,True,True,25,True
+2061,Arjun Chavan,50,Bavdhan,Farm,False,High,5000,True,True,28,True
+4052,Reyansh Joshi,45,Hadapsar,Farm,True,Medium,500,True,False,19,True
+9105,Riya Kumar,43,Baner,Farm,True,Medium,3000,True,True,28,False
+9073,Krishna Jadhav,28,Viman Nagar,Commercial,True,Medium,5000,True,True,27,False
+2974,Madhuri Bhosale,35,Hinjewadi,Farm,False,High,8000,True,True,8,False
+9357,Aditya Yadav,54,Shivajinagar,Residential,False,High,1500,False,True,30,True
+6958,Shaurya Verma,48,Hadapsar,Commercial,True,High,8000,False,False,19,False
+5261,Nisha Kumar,54,Bavdhan,Farm,False,High,3000,True,False,29,False
+5379,Tanya Joshi,25,Hadapsar,Residential,True,High,3000,False,True,10,True
+3722,Ravi Joshi,60,Kedgaon,Farm,False,Low,5000,False,True,9,True
+5342,Shruti Gupta,25,Hadapsar,Commercial,True,Low,5000,True,True,7,True
+4464,Madhuri Shetty,30,Bavdhan,Farm,False,High,8000,False,False,8,True
+5162,Isha Bhosale,46,Hadapsar,Commercial,True,Low,5000,False,False,18,True
+6170,Vivaan Gupta,51,Aundh,Commercial,False,Low,1500,True,False,13,True
+6609,Rupal Mehta,58,Pune,Commercial,False,Low,1500,False,False,22,True
+4198,Aarav Deshmukh,48,Shivajinagar,Commercial,False,Low,3000,True,False,11,True
+2230,Arjun Chavan,29,Aundh,Farm,True,High,3000,False,True,28,True
+2318,Sai Pawar,54,Hadapsar,Farm,False,High,1500,False,True,1,True
+2346,Pooja Sharma,42,Kothrud,Farm,True,Low,3000,False,False,16,True
+1784,Aditya Singh,51,Shivajinagar,Commercial,False,Medium,5000,True,False,3,True
+6372,Aisha Shetty,50,Baner,Commercial,False,Low,1500,False,False,1,True
+8270,Arjun Thakur,51,Bavdhan,Farm,False,High,3000,False,True,20,True
+2003,Arjun Thakur,43,Pune,Residential,True,High,8000,False,True,11,False
+8151,Madhuri Kumar,50,Kothrud,Commercial,False,High,1500,True,True,21,True
+9891,Aisha Joshi,29,Hadapsar,Commercial,True,High,8000,False,True,28,True
+3459,Vivaan Soni,37,Pune,Farm,False,Medium,5000,False,True,6,True
+3113,Tanya Chavan,37,Hinjewadi,Commercial,False,High,3000,False,False,1,True
+5133,Shruti Gupta,52,Pune,Farm,False,Low,8000,False,True,13,True
+2242,Ananya Reddy,36,Baner,Farm,False,Medium,500,False,False,22,False
+4033,Pooja Reddy,53,Baner,Farm,False,High,5000,False,True,26,True
+9260,Nisha Bhosale,44,Kothrud,Farm,True,Low,8000,True,False,29,True
+5022,Rupal Verma,36,Viman Nagar,Farm,True,Medium,500,True,True,24,True
+2700,Aditya Pawar,29,Baner,Commercial,True,Low,8000,True,True,24,False
+6199,Ravi Thakur,57,Viman Nagar,Residential,True,High,3000,False,True,10,True
+1053,Nisha Shetty,52,Pune,Farm,True,Low,1500,True,True,11,False
+5945,Ananya Reddy,38,Pune,Commercial,True,Low,500,True,True,6,True
+6853,Aditya Soni,50,Viman Nagar,Farm,False,Low,3000,True,True,19,True
+5975,Krishna Thakur,38,Pune,Residential,False,High,5000,False,False,12,False
+9429,Aisha Pawar,26,Bavdhan,Farm,False,Low,500,True,True,23,False
+8594,Arjun Patil,25,Kedgaon,Farm,True,Medium,5000,True,True,10,False
+9813,Aditya Soni,37,Viman Nagar,Farm,True,High,5000,False,False,24,True
+5385,Riya Shetty,27,Bavdhan,Farm,False,Medium,500,True,True,11,False
+9998,Isha Naik,49,Kothrud,Farm,False,High,1500,True,True,4,True
+1629,Madhuri Deshmukh,53,Viman Nagar,Farm,False,High,3000,True,False,5,True
+4300,Arjun Pawar,58,Bavdhan,Farm,True,Medium,500,True,True,12,True
+1715,Vivaan Singh,51,Shivajinagar,Farm,True,High,8000,True,False,8,True
+9237,Arjun Verma,52,Viman Nagar,Residential,False,Medium,3000,False,False,23,True
+5403,Aditya Shetty,58,Kedgaon,Farm,True,High,3000,False,True,5,False
+9691,Arjun Kulkarni,28,Shivajinagar,Commercial,True,Medium,8000,True,False,7,True
+4016,Pooja Singh,32,Kothrud,Commercial,False,Medium,1500,False,False,23,False
+2579,Ravi Pawar,52,Bavdhan,Farm,False,High,5000,False,False,29,False
+6274,Isha Reddy,41,Kedgaon,Residential,True,Medium,3000,False,False,26,False
+9767,Rupal Gupta,29,Pune,Farm,False,Low,500,False,False,27,False
+2094,Nisha Shetty,47,Shivajinagar,Farm,True,Low,3000,True,True,18,True
+3292,Riya Deshmukh,58,Viman Nagar,Farm,False,Low,3000,False,True,25,True
+2641,Riya Chavan,44,Kedgaon,Commercial,False,Medium,3000,True,False,28,False
+7218,Pooja Thakur,33,Kothrud,Commercial,False,Medium,8000,False,True,25,True
+9472,Ananya Mehta,35,Viman Nagar,Commercial,False,High,5000,True,True,4,False
+2031,Shaurya Shetty,48,Kedgaon,Residential,False,Low,3000,True,True,30,True
+4919,Aarav Gupta,55,Pune,Commercial,False,High,3000,False,True,3,True
+4058,Krishna Sharma,58,Kedgaon,Commercial,True,Low,500,False,True,5,True
+7571,Krishna Patil,48,Hadapsar,Commercial,True,Medium,3000,False,False,6,False
+3506,Nisha Sharma,33,Bavdhan,Commercial,True,Medium,1500,True,True,9,False
+8987,Riya Naik,51,Kedgaon,Residential,True,High,5000,True,True,1,True
+6957,Krishna Jadhav,56,Hinjewadi,Commercial,False,High,8000,False,False,27,False
+5704,Rupal Shetty,41,Shivajinagar,Commercial,True,Medium,1500,True,True,19,False
+2002,Tanya Jadhav,31,Hinjewadi,Commercial,True,Medium,8000,False,False,21,False
+6901,Arjun Patil,42,Bavdhan,Farm,False,Medium,1500,False,True,25,True
+8037,Vivaan Jadhav,35,Viman Nagar,Commercial,True,High,1500,True,True,13,True
+9479,Aditya Chavan,30,Bavdhan,Farm,True,Medium,500,False,True,25,True
+7956,Rupal Soni,47,Bavdhan,Farm,False,High,8000,True,False,20,True
+8768,Madhuri Joshi,47,Hadapsar,Residential,False,Medium,3000,True,False,23,True
+5642,Shruti Chavan,54,Hinjewadi,Farm,False,Low,3000,False,True,6,False
+7295,Sai Bhosale,42,Shivajinagar,Residential,True,Medium,500,False,True,6,False
+2061,Ananya Joshi,32,Hinjewadi,Residential,True,Medium,5000,False,False,17,False
+7502,Rupal Reddy,56,Kedgaon,Residential,False,High,5000,True,False,19,False
+1371,Arjun Deshmukh,58,Shivajinagar,Residential,True,High,8000,False,False,22,True
+9638,Aarav Soni,53,Viman Nagar,Residential,False,High,500,False,False,18,True
+4941,Pooja Pawar,34,Baner,Residential,False,Medium,8000,True,False,3,False
+4890,Ananya Joshi,39,Kothrud,Commercial,True,High,500,True,True,3,False
+6798,Aarav Verma,55,Shivajinagar,Residential,True,Low,1500,False,True,25,True
+1693,Nisha Gupta,40,Kedgaon,Farm,True,Low,5000,True,True,14,True
+7396,Krishna Shetty,34,Shivajinagar,Commercial,False,High,8000,True,False,23,False
+5239,Vivaan Pawar,27,Aundh,Residential,False,High,1500,False,True,7,True
+9289,Vivaan Yadav,26,Viman Nagar,Farm,False,High,3000,False,False,8,True
+9048,Isha Mehta,45,Viman Nagar,Farm,False,Low,3000,True,True,15,True
+3956,Nisha Soni,39,Kedgaon,Residential,True,Medium,500,True,False,10,True
+1065,Riya Kumar,53,Kothrud,Commercial,False,Medium,8000,False,True,23,False
+3800,Aisha Mehta,33,Hadapsar,Residential,True,Low,3000,True,False,13,False
+4977,Ravi Thakur,41,Baner,Farm,False,Low,8000,False,True,3,True
+8074,Riya Reddy,44,Shivajinagar,Farm,True,High,500,True,True,22,True
+2421,Reyansh Verma,25,Baner,Commercial,True,Low,500,True,True,3,True
+5067,Krishna Reddy,42,Viman Nagar,Residential,True,Medium,5000,True,False,14,False
+2564,Aisha Jadhav,29,Kothrud,Farm,False,High,1500,True,True,16,True
+7644,Ravi Kumar,58,Bavdhan,Farm,False,Low,8000,True,False,14,True
+3135,Arjun Yadav,41,Shivajinagar,Residential,True,Low,1500,True,False,1,True
+2061,Nisha Verma,28,Hinjewadi,Commercial,True,Low,5000,False,False,19,True
+1430,Aisha Reddy,60,Hadapsar,Farm,False,Medium,5000,False,True,17,False
+7157,Shruti Shetty,42,Pune,Residential,True,Medium,3000,True,False,17,False
+5557,Tanya Gupta,45,Pune,Commercial,False,High,3000,True,True,16,True
+5492,Shaurya Joshi,50,Viman Nagar,Farm,True,High,3000,False,True,24,False
+8270,Arjun Singh,38,Bavdhan,Farm,False,Low,5000,True,False,24,True
+7379,Krishna Reddy,40,Viman Nagar,Residential,True,High,5000,True,False,18,True
+6781,Ravi Naik,31,Kothrud,Farm,False,Medium,3000,False,False,14,False
+6026,Arjun Naik,39,Kedgaon,Residential,False,Low,500,True,True,6,True
+1429,Isha Pawar,30,Viman Nagar,Commercial,False,High,8000,True,True,4,True
+2401,Yash Deshmukh,52,Shivajinagar,Farm,False,Low,1500,False,True,16,False
+9138,Aarav Mehta,25,Hadapsar,Residential,False,Low,8000,False,False,22,True
+2594,Arjun Shetty,44,Kothrud,Residential,True,Medium,8000,False,False,5,True
+6224,Vivaan Reddy,47,Kothrud,Farm,True,High,500,True,True,24,True
+5203,Isha Pawar,42,Hadapsar,Farm,True,Medium,500,False,True,23,True
+1574,Reyansh Kulkarni,38,Hinjewadi,Commercial,True,Low,3000,False,True,12,True
+9944,Reyansh Thakur,41,Baner,Farm,False,Medium,500,True,False,18,False
+9258,Aditya Mehta,29,Hinjewadi,Residential,True,High,5000,True,False,28,False
+6037,Madhuri Thakur,44,Kothrud,Residential,False,Low,3000,False,False,25,False
+9308,Rupal Bhosale,54,Hadapsar,Residential,True,High,1500,True,False,3,False
+8336,Shruti Joshi,51,Pune,Farm,False,Low,1500,False,True,12,True
+9449,Ravi Sharma,40,Kedgaon,Commercial,False,Medium,1500,True,False,10,True
+1986,Madhuri Kumar,38,Hinjewadi,Residential,True,High,8000,False,True,9,False
+7484,Ravi Mehta,27,Aundh,Farm,False,High,3000,True,True,25,True
+3373,Riya Reddy,26,Hinjewadi,Residential,False,High,500,True,False,4,True
+5262,Nisha Naik,39,Hadapsar,Residential,False,Medium,3000,True,False,29,True
+4599,Shaurya Naik,27,Kothrud,Residential,False,High,3000,False,False,9,False
+4256,Reyansh Chavan,53,Hadapsar,Commercial,False,Medium,3000,False,False,27,True
+4888,Ravi Pawar,52,Viman Nagar,Residential,False,Low,1500,True,False,15,False
+1776,Ananya Joshi,42,Aundh,Residential,True,Medium,5000,False,True,9,False
+4643,Shruti Joshi,50,Viman Nagar,Farm,False,Medium,3000,False,True,19,False
+9794,Riya Reddy,53,Hinjewadi,Residential,False,Medium,500,False,True,20,True
+4945,Madhuri Reddy,28,Hadapsar,Residential,True,High,5000,False,False,30,True
+5419,Reyansh Soni,59,Baner,Farm,True,Medium,1500,True,True,24,True
+5502,Aarav Bhosale,50,Baner,Farm,False,Medium,8000,False,True,24,True
+5852,Arjun Naik,28,Aundh,Residential,False,High,500,True,True,27,True
+7258,Aditya Soni,44,Aundh,Farm,False,Low,500,False,True,28,False
+9877,Nisha Patil,34,Kothrud,Farm,True,High,5000,True,True,26,True
+1992,Vivaan Sharma,49,Baner,Residential,False,Medium,3000,False,True,20,False
+3934,Sai Bhosale,36,Baner,Residential,False,High,3000,True,True,3,False
+1133,Krishna Joshi,56,Viman Nagar,Commercial,False,High,5000,True,False,15,True
+5821,Vivaan Thakur,36,Kothrud,Residential,False,Medium,8000,False,False,12,True
+8325,Sai Joshi,26,Pune,Residential,True,High,500,True,True,16,True
+1407,Aarav Naik,48,Hinjewadi,Commercial,True,Medium,3000,False,True,12,False
+9352,Ananya Mehta,32,Baner,Commercial,False,High,5000,False,False,29,True
+2878,Shaurya Mehta,44,Bavdhan,Residential,True,Low,500,True,False,3,True
+8229,Reyansh Chavan,26,Kedgaon,Farm,True,Medium,5000,True,False,25,True
+1377,Madhuri Mehta,33,Bavdhan,Residential,False,Medium,8000,False,True,21,False
+4940,Tanya Naik,39,Kothrud,Residential,False,Low,3000,False,True,15,True
+6697,Pooja Pawar,45,Shivajinagar,Residential,True,Medium,1500,True,True,13,True
+4346,Shaurya Singh,52,Bavdhan,Commercial,True,Low,500,False,False,14,True
+6362,Krishna Patil,57,Hinjewadi,Commercial,False,Low,3000,True,False,6,True
+9859,Madhuri Patil,56,Shivajinagar,Residential,True,High,5000,True,True,5,False
+5340,Ravi Kumar,47,Baner,Farm,True,Low,8000,True,True,11,False
+1324,Arjun Soni,29,Pune,Commercial,False,Low,8000,False,False,27,False
+1286,Isha Gupta,34,Shivajinagar,Farm,True,High,8000,True,False,22,False
+7044,Aarav Patil,50,Baner,Commercial,True,Medium,5000,True,True,10,True
+1823,Sai Yadav,43,Shivajinagar,Commercial,False,Medium,1500,True,True,30,False
+3115,Riya Deshmukh,51,Shivajinagar,Farm,True,Low,8000,False,False,22,False
+4491,Shaurya Singh,39,Kedgaon,Commercial,False,Medium,3000,False,True,28,False
+6403,Aditya Singh,60,Aundh,Farm,False,Medium,5000,False,True,19,False
+5255,Rupal Reddy,40,Hinjewadi,Commercial,False,Medium,500,False,True,11,True
+1243,Pooja Verma,43,Kedgaon,Commercial,False,High,5000,False,True,7,True
+6026,Nisha Shetty,35,Bavdhan,Residential,True,High,5000,False,True,20,True
+8026,Riya Kulkarni,45,Kedgaon,Residential,True,Low,3000,True,True,11,True
+1858,Pooja Singh,44,Hadapsar,Farm,False,Low,8000,True,False,23,False
+4016,Isha Thakur,46,Viman Nagar,Commercial,True,Low,3000,True,True,1,True
+7488,Nisha Kulkarni,49,Bavdhan,Residential,False,Medium,1500,True,True,18,False
+5420,Krishna Yadav,34,Aundh,Farm,True,Medium,5000,True,True,6,True
+2096,Pooja Joshi,48,Kothrud,Commercial,False,Low,5000,True,False,19,True
+9779,Reyansh Pawar,53,Viman Nagar,Commercial,False,Medium,5000,True,False,8,False
+8372,Yash Jadhav,53,Kedgaon,Farm,True,Medium,500,False,True,11,True
+2144,Riya Pawar,40,Kedgaon,Commercial,True,Medium,500,True,True,6,True
+7707,Riya Deshmukh,37,Aundh,Commercial,True,High,3000,False,False,26,False
+8001,Vivaan Naik,43,Kothrud,Residential,False,Low,1500,False,True,6,True
+6035,Krishna Kumar,49,Bavdhan,Commercial,True,Medium,3000,False,True,7,False
+1221,Pooja Jadhav,44,Hinjewadi,Farm,False,Medium,500,True,False,13,True
+1879,Vivaan Chavan,41,Shivajinagar,Commercial,False,Low,500,True,False,22,True
+4957,Krishna Patil,30,Bavdhan,Commercial,True,High,500,True,True,5,False
+4765,Rupal Yadav,41,Pune,Farm,True,High,500,True,False,26,False
+2351,Yash Gupta,48,Bavdhan,Commercial,True,Medium,1500,True,False,28,False
+9191,Ananya Jadhav,38,Kedgaon,Commercial,True,Low,5000,True,True,20,True
+6586,Krishna Gupta,43,Pune,Residential,False,High,500,False,False,8,True
+1768,Rupal Joshi,35,Aundh,Commercial,True,Medium,5000,False,True,25,False
+9259,Aisha Soni,54,Kedgaon,Farm,False,High,1500,False,True,21,True
+1613,Ravi Pawar,29,Kothrud,Commercial,True,Low,8000,True,True,24,False
+6823,Vivaan Deshmukh,57,Pune,Commercial,True,Low,1500,False,True,1,True
+6089,Ravi Bhosale,38,Shivajinagar,Farm,True,High,500,False,True,28,False
+2607,Aisha Mehta,47,Bavdhan,Commercial,False,Medium,1500,False,False,18,False
+7530,Yash Singh,49,Kedgaon,Commercial,False,High,500,False,False,27,False
+9759,Rupal Singh,53,Bavdhan,Commercial,False,Medium,500,True,False,23,True
+1666,Rupal Verma,51,Baner,Residential,True,Medium,500,False,False,2,True
+2845,Reyansh Gupta,40,Hadapsar,Farm,False,Medium,500,False,True,17,False
+2664,Sai Sharma,28,Kedgaon,Commercial,False,Medium,1500,False,False,15,False
+6847,Isha Gupta,30,Bavdhan,Residential,True,Medium,1500,False,False,11,False
+6643,Shaurya Joshi,25,Kedgaon,Residential,True,Low,1500,True,False,8,True
+6902,Vivaan Chavan,59,Bavdhan,Residential,True,Low,1500,True,True,12,False
+1733,Riya Reddy,58,Aundh,Farm,True,Medium,500,False,True,1,True
+6094,Krishna Verma,59,Hadapsar,Farm,True,Low,8000,True,False,26,True
+6042,Riya Deshmukh,37,Hinjewadi,Commercial,True,Low,3000,False,False,2,False
+9463,Krishna Gupta,46,Aundh,Commercial,True,Medium,8000,True,True,14,False
+8558,Rupal Pawar,50,Viman Nagar,Residential,False,Low,5000,False,False,1,False
+3279,Shaurya Naik,27,Hinjewadi,Farm,True,High,1500,True,True,17,False
+6582,Isha Sharma,57,Shivajinagar,Residential,True,Medium,500,False,True,5,False
+7864,Yash Patil,39,Baner,Commercial,False,Medium,5000,True,True,29,True
+1081,Aditya Chavan,53,Kothrud,Farm,False,High,500,True,True,18,True
+4248,Madhuri Naik,34,Viman Nagar,Residential,True,Medium,8000,False,False,1,False
+2053,Aarav Kumar,48,Baner,Farm,False,Medium,3000,False,False,20,False
+8158,Arjun Soni,52,Hinjewadi,Residential,True,Low,5000,False,True,29,True
+6483,Arjun Soni,55,Shivajinagar,Residential,False,Low,1500,True,False,12,True
+8860,Isha Soni,55,Pune,Residential,True,High,1500,True,False,18,True
+8718,Krishna Chavan,41,Kedgaon,Farm,False,Medium,3000,False,False,5,False
+5412,Arjun Gupta,32,Hinjewadi,Farm,False,Medium,500,True,True,29,False
+7655,Arjun Yadav,54,Pune,Commercial,False,High,1500,True,False,23,False
+9869,Vivaan Gupta,30,Shivajinagar,Commercial,True,Medium,1500,False,False,1,True
+9987,Vivaan Reddy,34,Pune,Farm,True,High,8000,True,True,25,True
+7039,Reyansh Thakur,26,Hadapsar,Residential,True,Low,1500,False,False,8,True
+6903,Vivaan Sharma,26,Viman Nagar,Commercial,False,Medium,3000,False,False,20,False
+9984,Krishna Chavan,39,Hadapsar,Commercial,True,Low,3000,False,True,17,False
+9966,Isha Mehta,28,Kedgaon,Farm,False,Medium,500,False,True,18,True
+3730,Isha Reddy,57,Baner,Farm,False,Low,3000,True,False,2,False
+9417,Shruti Verma,30,Hinjewadi,Commercial,True,Low,3000,True,False,24,True
+7058,Shruti Soni,31,Viman Nagar,Residential,True,Medium,8000,True,True,7,True
+1611,Shruti Yadav,59,Viman Nagar,Farm,True,High,3000,True,False,10,True
+1280,Shruti Reddy,34,Baner,Residential,False,Medium,5000,True,True,6,False
+8264,Shruti Jadhav,48,Hinjewadi,Residential,True,High,5000,False,False,15,True
+1501,Aisha Mehta,28,Viman Nagar,Farm,False,Medium,8000,False,False,6,True
+9706,Aisha Shetty,34,Hinjewadi,Farm,True,Low,8000,False,True,24,True
+3413,Ravi Deshmukh,60,Kothrud,Farm,True,High,3000,False,True,11,True
+9532,Madhuri Deshmukh,26,Kothrud,Commercial,False,Low,5000,True,True,18,False
+4565,Riya Kumar,51,Kothrud,Commercial,False,Low,5000,False,True,17,False
+5219,Ananya Kulkarni,52,Kothrud,Commercial,True,High,1500,True,False,30,True
+7886,Vivaan Kulkarni,29,Hinjewadi,Farm,False,Low,3000,False,False,19,True
+2547,Riya Kulkarni,41,Hadapsar,Commercial,True,Medium,5000,False,True,29,True
+2253,Krishna Kulkarni,35,Pune,Farm,True,High,500,True,True,19,True
+6682,Ananya Thakur,32,Bavdhan,Farm,True,Medium,8000,False,True,17,True
+6854,Ravi Thakur,42,Kothrud,Farm,False,Medium,500,False,True,8,True
+7834,Madhuri Kumar,57,Viman Nagar,Farm,False,High,1500,True,False,5,True
+5750,Aisha Joshi,46,Kedgaon,Commercial,False,Low,3000,True,True,4,True
+4824,Isha Kumar,48,Pune,Farm,True,Low,500,True,True,20,True
+4933,Sai Verma,36,Kothrud,Farm,False,Medium,3000,True,True,5,True
+9041,Riya Yadav,34,Kedgaon,Residential,True,Medium,5000,False,True,15,False
+8949,Ananya Deshmukh,39,Hinjewadi,Farm,False,Medium,1500,True,True,26,True
+5207,Krishna Joshi,40,Aundh,Residential,False,Medium,8000,False,True,24,True
+4801,Aisha Kulkarni,48,Kedgaon,Commercial,False,High,500,False,False,8,False
+6062,Aditya Shetty,34,Bavdhan,Commercial,False,High,8000,False,True,7,False
+9302,Rupal Jadhav,30,Pune,Residential,False,Medium,500,False,True,22,False
+4615,Pooja Sharma,27,Shivajinagar,Farm,True,Low,1500,False,False,11,True
+1668,Shruti Mehta,38,Kedgaon,Commercial,True,High,3000,False,True,14,True
+2046,Ravi Singh,55,Shivajinagar,Farm,True,Medium,5000,False,False,13,True
+6003,Sai Jadhav,60,Baner,Residential,False,Low,5000,True,True,4,False
+6318,Ravi Verma,42,Pune,Commercial,True,High,3000,True,False,1,False
+9581,Aarav Bhosale,56,Shivajinagar,Residential,False,Medium,8000,False,False,3,False
+8758,Sai Naik,28,Baner,Residential,True,High,500,True,True,13,False
+8363,Ravi Patil,43,Kedgaon,Farm,False,High,3000,True,False,7,True
+5994,Krishna Reddy,48,Hadapsar,Residential,False,High,8000,False,True,2,False
+2104,Reyansh Patil,28,Bavdhan,Residential,False,Medium,500,True,True,7,False
+9109,Sai Kumar,25,Bavdhan,Residential,False,Low,500,True,True,27,False
+3127,Vivaan Pawar,32,Baner,Commercial,True,High,5000,False,True,13,False
+6034,Ravi Kumar,30,Kedgaon,Commercial,True,High,5000,False,False,28,False
+1952,Rupal Kumar,28,Kedgaon,Farm,False,Medium,3000,False,True,8,True
+8048,Ravi Pawar,57,Baner,Residential,False,Low,500,False,True,11,True
+7915,Isha Pawar,57,Kedgaon,Farm,False,High,500,False,False,29,True
+2112,Shruti Chavan,47,Bavdhan,Residential,False,Low,500,False,False,11,True
+3700,Ananya Pawar,50,Hinjewadi,Farm,True,High,500,False,True,16,True
+3562,Reyansh Joshi,55,Shivajinagar,Residential,False,Low,5000,False,True,20,True
+9848,Yash Yadav,42,Hadapsar,Residential,False,High,3000,False,True,11,True
+8569,Rupal Gupta,50,Shivajinagar,Residential,False,High,3000,False,True,22,True
+6912,Shaurya Sharma,33,Viman Nagar,Farm,False,High,3000,True,False,4,False
+8894,Ananya Thakur,42,Aundh,Residential,False,Medium,5000,False,False,4,True
+5632,Aditya Verma,54,Aundh,Commercial,False,Medium,500,True,False,16,True
+8719,Krishna Shetty,42,Hadapsar,Commercial,False,Low,500,False,False,17,True
+3689,Ananya Kulkarni,51,Kedgaon,Farm,False,Medium,8000,True,True,12,True
+2487,Krishna Yadav,40,Shivajinagar,Commercial,True,Low,500,True,True,18,True
+6200,Vivaan Reddy,48,Pune,Commercial,True,Low,1500,True,True,11,False
+6372,Reyansh Verma,55,Aundh,Farm,False,Medium,8000,True,True,26,False
+2019,Ravi Patil,44,Baner,Farm,True,High,8000,True,True,18,True
+3786,Shaurya Singh,39,Kothrud,Farm,False,Medium,500,False,False,17,False
+8568,Krishna Patil,44,Viman Nagar,Farm,True,Low,5000,True,True,9,False
+8321,Arjun Jadhav,43,Shivajinagar,Residential,True,Medium,5000,True,False,7,False
+8550,Aditya Deshmukh,45,Bavdhan,Commercial,True,Medium,3000,False,True,25,True
+5677,Aisha Shetty,46,Hadapsar,Commercial,True,Low,500,False,False,27,True
+4633,Aditya Yadav,51,Viman Nagar,Commercial,False,Low,8000,False,False,5,False
+1211,Sai Sharma,40,Baner,Farm,True,Low,5000,False,False,8,False
+7904,Madhuri Verma,27,Viman Nagar,Farm,False,Medium,500,False,True,22,False
+6711,Isha Naik,33,Pune,Commercial,True,Medium,1500,True,False,4,False
+2561,Riya Chavan,45,Aundh,Farm,False,Low,8000,False,True,1,True
+1008,Ravi Sharma,51,Kothrud,Residential,True,Medium,5000,False,False,27,False
+4503,Pooja Bhosale,36,Baner,Residential,False,Low,1500,True,True,6,False
+5080,Nisha Yadav,51,Viman Nagar,Residential,False,High,8000,False,True,24,True
+6183,Aisha Jadhav,54,Baner,Residential,True,Low,500,False,True,12,True
+6291,Sai Yadav,40,Viman Nagar,Commercial,False,High,3000,True,False,20,True
+6960,Yash Jadhav,59,Hinjewadi,Commercial,True,Medium,500,False,True,26,True
+1941,Reyansh Sharma,50,Baner,Commercial,True,Medium,1500,False,False,16,False
+6193,Reyansh Kulkarni,54,Aundh,Residential,True,Low,1500,False,True,23,True
+8465,Aditya Singh,37,Viman Nagar,Commercial,True,High,8000,False,True,1,False
+5444,Aditya Deshmukh,35,Baner,Residential,True,Low,500,True,True,23,True
+9876,Arjun Kumar,56,Bavdhan,Commercial,False,Medium,1500,False,True,7,True
+6199,Shruti Kulkarni,54,Pune,Residential,True,High,3000,False,False,22,True
+8153,Isha Mehta,40,Baner,Residential,True,Medium,1500,True,False,4,False
+6372,Isha Jadhav,56,Baner,Commercial,False,Low,5000,True,True,25,True
+6813,Riya Joshi,44,Hadapsar,Residential,True,Medium,3000,True,True,12,True
+9802,Sai Chavan,36,Baner,Farm,False,Low,5000,True,False,11,False
+1739,Rupal Chavan,28,Bavdhan,Commercial,False,Medium,5000,False,True,8,False
+7158,Ravi Sharma,43,Baner,Farm,True,Low,8000,True,True,6,False
+2394,Pooja Soni,25,Pune,Commercial,True,Medium,8000,True,True,30,False
+7116,Aditya Deshmukh,49,Kothrud,Commercial,True,Low,1500,False,True,9,False
+3737,Sai Kumar,35,Hinjewadi,Residential,True,High,3000,False,True,10,True
+3545,Riya Reddy,32,Shivajinagar,Farm,False,Medium,500,True,True,3,True
+1762,Madhuri Yadav,48,Hinjewadi,Residential,True,Medium,5000,False,True,3,True
+9487,Riya Joshi,55,Hinjewadi,Commercial,False,High,5000,True,True,10,False
+8036,Pooja Reddy,53,Kothrud,Commercial,False,Medium,8000,False,True,7,False
+2412,Arjun Kumar,31,Shivajinagar,Residential,False,High,5000,True,True,6,True
+9059,Nisha Gupta,43,Aundh,Commercial,False,High,1500,False,True,14,False
+2008,Ravi Yadav,33,Aundh,Residential,False,High,8000,False,True,20,True
+5741,Rupal Mehta,51,Kedgaon,Farm,False,High,500,False,False,23,True
+9038,Aarav Yadav,46,Shivajinagar,Farm,True,High,8000,True,True,30,True
+2035,Tanya Soni,50,Pune,Commercial,False,Low,1500,False,True,3,False
+3116,Reyansh Pawar,33,Shivajinagar,Commercial,False,Medium,500,True,True,16,True
+1545,Arjun Singh,57,Kedgaon,Commercial,True,Medium,8000,True,True,10,True
+8657,Pooja Pawar,59,Baner,Farm,False,High,3000,True,True,15,False
+6725,Tanya Yadav,45,Kedgaon,Commercial,False,Medium,5000,True,True,24,False
+9812,Arjun Bhosale,51,Pune,Commercial,False,Medium,3000,False,False,27,True
+8984,Sai Reddy,25,Baner,Farm,False,Low,3000,True,True,14,False
+7786,Arjun Patil,46,Aundh,Residential,False,High,500,False,False,22,True
+8672,Ravi Sharma,53,Hinjewadi,Residential,True,Medium,8000,True,False,26,False
+1428,Isha Bhosale,38,Shivajinagar,Commercial,True,High,500,True,False,29,False
+1705,Pooja Soni,31,Bavdhan,Commercial,True,Low,500,False,False,14,True
+4402,Rupal Verma,26,Baner,Farm,True,Medium,500,False,True,20,False
+4291,Isha Gupta,40,Hadapsar,Residential,True,High,8000,True,True,27,True
+6074,Nisha Chavan,36,Shivajinagar,Residential,True,Low,3000,True,False,18,False
+8392,Tanya Yadav,51,Viman Nagar,Commercial,False,Low,5000,False,True,21,False
+5510,Ravi Reddy,30,Bavdhan,Farm,False,Low,3000,False,True,21,False
+6046,Shaurya Joshi,25,Baner,Commercial,False,High,5000,False,False,9,False
+6456,Madhuri Soni,46,Kothrud,Residential,False,Low,5000,False,False,12,True
+9371,Aarav Shetty,55,Kothrud,Commercial,False,High,3000,True,False,12,False
+8495,Sai Kumar,40,Kothrud,Residential,False,Low,1500,False,True,14,True
+3322,Ravi Gupta,49,Viman Nagar,Commercial,True,Low,500,False,True,4,True
+1671,Nisha Naik,39,Aundh,Commercial,True,Low,1500,False,True,7,True
+9219,Tanya Pawar,29,Hadapsar,Residential,True,Low,500,False,True,1,True
+2333,Rupal Deshmukh,44,Hinjewadi,Farm,True,Medium,3000,True,True,26,False
+6117,Shruti Sharma,27,Kedgaon,Residential,False,High,500,True,False,19,False
+7163,Tanya Patil,27,Kothrud,Residential,True,Low,5000,True,False,15,True
+7729,Aditya Bhosale,53,Hinjewadi,Residential,False,Low,5000,False,True,5,True
+6008,Krishna Bhosale,34,Pune,Farm,False,Low,8000,False,False,26,True
+4663,Rupal Patil,51,Kedgaon,Residential,True,Medium,5000,True,True,23,True
+3888,Isha Joshi,27,Aundh,Residential,False,High,5000,False,False,3,True
+5331,Nisha Yadav,25,Bavdhan,Residential,True,Low,5000,False,True,22,True
+2283,Tanya Jadhav,46,Hinjewadi,Residential,False,Medium,8000,False,False,18,False
+1008,Shruti Gupta,59,Hinjewadi,Farm,False,Low,1500,True,True,5,False
+4877,Shaurya Jadhav,57,Kedgaon,Commercial,True,Medium,500,False,True,10,False
+6178,Yash Yadav,57,Viman Nagar,Commercial,False,Low,3000,False,False,9,False
+4602,Rupal Kulkarni,53,Kothrud,Farm,True,High,500,False,False,15,True
+1915,Vivaan Singh,59,Kedgaon,Residential,False,High,500,True,False,2,False
+6989,Shruti Pawar,40,Hinjewadi,Commercial,True,High,8000,False,True,9,True
+9618,Riya Yadav,27,Pune,Commercial,True,Low,500,False,False,18,True
+9891,Aditya Chavan,25,Bavdhan,Residential,False,High,5000,False,True,24,True
+7426,Krishna Singh,54,Hinjewadi,Farm,False,Medium,8000,True,False,22,False
+8779,Sai Mehta,49,Baner,Commercial,False,Low,500,True,True,2,True
+8269,Rupal Joshi,39,Kedgaon,Residential,True,Medium,8000,True,False,19,True
+2671,Pooja Shetty,25,Baner,Commercial,True,High,5000,False,False,20,True
+6674,Isha Naik,35,Shivajinagar,Residential,True,High,8000,True,True,13,True
+1936,Shaurya Sharma,42,Pune,Commercial,True,Medium,5000,False,False,23,False
+6176,Reyansh Singh,29,Hinjewadi,Farm,True,High,1500,True,True,29,False
+3448,Reyansh Soni,59,Pune,Commercial,False,High,1500,True,False,19,True
+4359,Tanya Chavan,48,Bavdhan,Farm,True,Medium,1500,True,False,26,True
+9830,Pooja Patil,40,Hinjewadi,Farm,False,Low,500,True,True,24,False
+8286,Yash Shetty,32,Shivajinagar,Commercial,False,Medium,3000,True,True,29,True
+6554,Aarav Mehta,42,Kothrud,Farm,True,High,3000,True,True,21,False
+9860,Aarav Gupta,26,Kedgaon,Commercial,False,Low,3000,True,False,19,False
+4402,Shruti Jadhav,34,Baner,Commercial,False,Medium,3000,True,True,28,True
+8159,Arjun Gupta,53,Pune,Residential,True,High,5000,True,False,30,False
+3426,Pooja Sharma,48,Aundh,Commercial,True,Medium,1500,True,True,8,False
+7976,Shruti Naik,40,Viman Nagar,Commercial,False,High,3000,False,False,30,False
+1010,Ravi Mehta,45,Bavdhan,Commercial,True,High,3000,True,False,24,False
+3352,Riya Singh,55,Kothrud,Farm,False,High,500,True,False,20,True
+6637,Ananya Patil,31,Shivajinagar,Commercial,True,Low,8000,True,False,4,False
+4290,Shaurya Naik,59,Viman Nagar,Commercial,False,Medium,5000,True,True,22,False
+6598,Aditya Patil,43,Pune,Farm,False,High,3000,False,True,12,False
+9804,Yash Kumar,40,Viman Nagar,Farm,False,High,5000,True,False,10,False
+7274,Sai Gupta,58,Hinjewadi,Residential,False,Medium,3000,False,True,6,False
+1775,Aarav Joshi,34,Baner,Farm,True,Medium,8000,True,True,4,False
+3799,Shaurya Chavan,44,Viman Nagar,Farm,False,High,3000,True,False,16,True
+5954,Aditya Chavan,32,Kedgaon,Farm,False,Low,3000,True,False,28,False
+9179,Ravi Mehta,55,Hadapsar,Residential,True,Medium,5000,True,True,22,True
+4090,Madhuri Gupta,51,Hadapsar,Commercial,True,Medium,1500,True,False,3,False
+2559,Shruti Thakur,51,Kothrud,Residential,True,Medium,1500,True,False,26,False
+9053,Shaurya Singh,35,Hinjewadi,Residential,False,High,3000,True,True,17,False
+2036,Shaurya Reddy,40,Hadapsar,Farm,True,High,8000,False,False,5,False
+2031,Aditya Singh,38,Viman Nagar,Farm,False,High,5000,True,False,7,False
+3606,Shruti Bhosale,27,Hadapsar,Commercial,True,High,1500,True,False,11,True
+9542,Aarav Thakur,31,Kedgaon,Commercial,True,Low,5000,False,True,29,False
+3586,Nisha Joshi,32,Baner,Residential,True,High,5000,True,False,16,True
+7388,Nisha Kulkarni,44,Aundh,Commercial,True,Low,3000,True,False,7,True
+5231,Reyansh Kulkarni,40,Viman Nagar,Residential,False,Medium,1500,True,False,12,True
+6182,Sai Patil,36,Aundh,Residential,True,Medium,5000,False,True,23,True
+1053,Krishna Chavan,47,Kothrud,Farm,True,High,3000,True,False,25,True
+5106,Pooja Soni,40,Baner,Farm,False,Low,500,True,False,13,False
+3659,Arjun Verma,46,Viman Nagar,Commercial,False,Medium,3000,False,True,12,False
+4427,Reyansh Kulkarni,52,Kedgaon,Commercial,False,Low,1500,False,True,19,False
+9684,Yash Bhosale,29,Pune,Farm,False,Medium,1500,False,False,18,True
+1402,Reyansh Naik,34,Aundh,Residential,False,High,500,False,False,19,False
+5898,Ravi Chavan,58,Baner,Commercial,True,Low,500,False,True,7,False
+4368,Rupal Reddy,30,Hadapsar,Residential,False,Low,8000,True,False,24,False
+8153,Reyansh Deshmukh,54,Viman Nagar,Residential,False,High,5000,False,False,14,True
+7518,Sai Kumar,55,Kothrud,Residential,False,Medium,8000,False,True,11,True
+6616,Isha Pawar,43,Hadapsar,Farm,True,Low,500,True,True,23,False
+8227,Isha Naik,37,Hinjewadi,Farm,False,Low,5000,True,True,14,True
+4469,Ananya Singh,41,Viman Nagar,Residential,False,Low,500,False,False,16,True
+8179,Tanya Reddy,31,Bavdhan,Commercial,True,Low,3000,False,True,10,True
+4650,Sai Joshi,53,Kothrud,Commercial,False,Medium,8000,False,False,24,True
+2071,Reyansh Singh,32,Bavdhan,Farm,True,Medium,1500,False,True,19,False
+6174,Arjun Singh,44,Viman Nagar,Farm,False,Medium,8000,True,False,3,False
+2687,Pooja Pawar,39,Pune,Farm,True,Medium,500,False,True,27,True
+3868,Shruti Pawar,26,Kothrud,Residential,False,Low,5000,False,False,13,False
+9678,Aarav Kulkarni,37,Hinjewadi,Farm,True,High,8000,False,True,8,True
+7604,Ravi Yadav,37,Bavdhan,Commercial,False,Low,500,False,True,24,True
+9986,Madhuri Kulkarni,47,Kothrud,Residential,False,Medium,3000,True,True,19,False
+3075,Nisha Patil,36,Kedgaon,Farm,False,High,3000,False,False,6,False
+4881,Yash Verma,45,Kothrud,Commercial,False,High,5000,True,False,13,False
+6333,Shruti Patil,38,Hadapsar,Farm,True,High,3000,True,False,13,False
+2614,Aisha Kulkarni,29,Hinjewadi,Commercial,True,Medium,3000,False,False,17,True
+9734,Rupal Kumar,46,Shivajinagar,Commercial,False,Low,8000,False,False,2,True
+7077,Yash Jadhav,33,Kothrud,Commercial,False,Medium,5000,True,True,25,False
+4492,Sai Shetty,55,Baner,Commercial,True,Low,5000,True,False,26,False
+2537,Reyansh Kumar,26,Hinjewadi,Commercial,True,High,3000,False,True,30,True
+9005,Aarav Soni,52,Kedgaon,Residential,False,Medium,500,True,True,6,True
+5741,Reyansh Jadhav,35,Aundh,Farm,True,Medium,1500,True,True,29,True
+1197,Reyansh Thakur,57,Hadapsar,Residential,True,Low,8000,True,False,5,True
+7930,Sai Mehta,43,Hadapsar,Farm,True,Medium,5000,True,True,22,False
+2702,Shruti Chavan,50,Hadapsar,Residential,True,Medium,3000,True,False,21,False
+2834,Nisha Shetty,57,Pune,Farm,True,High,5000,False,False,12,True
+9031,Pooja Naik,34,Hinjewadi,Commercial,False,Low,1500,True,True,12,False
+5686,Isha Reddy,45,Shivajinagar,Residential,False,Low,3000,False,True,10,True
+4024,Ravi Kumar,38,Baner,Farm,False,Low,3000,False,False,28,False
+5470,Reyansh Singh,38,Aundh,Farm,True,Medium,1500,True,False,13,False
+4679,Sai Deshmukh,56,Aundh,Residential,True,Medium,3000,True,True,23,True
+9078,Isha Singh,36,Hadapsar,Farm,False,Low,3000,False,True,12,False
+9802,Ravi Sharma,38,Pune,Farm,True,High,1500,False,True,11,False
+6144,Nisha Patil,33,Kothrud,Residential,True,High,3000,True,True,30,True
+4231,Krishna Thakur,50,Kothrud,Commercial,True,Medium,8000,True,False,29,True
+5314,Ananya Joshi,57,Bavdhan,Residential,True,Medium,1500,True,False,30,True
+8058,Krishna Verma,26,Kedgaon,Farm,True,Low,5000,False,False,8,True
+9556,Isha Verma,27,Kothrud,Farm,False,Medium,1500,True,False,15,False
+3673,Krishna Patil,44,Bavdhan,Residential,True,High,3000,True,False,14,True
+6087,Pooja Thakur,31,Viman Nagar,Commercial,True,Medium,8000,False,True,20,True
+3334,Sai Verma,54,Viman Nagar,Residential,False,Medium,3000,False,False,26,False
+7258,Pooja Sharma,46,Bavdhan,Residential,True,Low,3000,False,False,8,True
+4929,Shruti Joshi,38,Pune,Farm,False,Low,5000,True,True,15,True
+9687,Shaurya Jadhav,54,Shivajinagar,Farm,False,Medium,5000,False,True,11,False
+8257,Aisha Shetty,44,Kedgaon,Farm,False,Medium,5000,True,False,4,False
+1477,Krishna Naik,38,Viman Nagar,Residential,False,High,8000,False,False,15,True
+7033,Vivaan Kulkarni,56,Viman Nagar,Farm,False,Low,8000,False,True,7,True
+4384,Aditya Mehta,43,Aundh,Commercial,False,High,500,False,True,7,True
+9564,Aarav Pawar,50,Kedgaon,Residential,False,High,3000,True,False,20,False
+5300,Nisha Naik,47,Pune,Residential,True,Medium,500,False,False,2,True
+5431,Aarav Pawar,27,Bavdhan,Farm,False,Low,500,True,True,28,False
+2981,Shaurya Sharma,40,Baner,Farm,False,High,5000,True,False,16,False
+7307,Ravi Kumar,25,Kothrud,Farm,False,Medium,1500,False,True,1,True
+5372,Isha Singh,34,Hadapsar,Residential,True,Low,8000,True,False,20,True
+3489,Arjun Joshi,27,Pune,Commercial,True,High,8000,True,True,23,False
+8909,Sai Kumar,38,Baner,Farm,True,Low,500,False,True,2,False
+6638,Sai Reddy,36,Baner,Farm,True,High,500,True,False,17,True
+6103,Ananya Kulkarni,38,Pune,Farm,True,Medium,500,True,False,8,True
+5226,Madhuri Pawar,42,Viman Nagar,Residential,True,High,500,True,True,25,True
+1592,Krishna Soni,56,Hinjewadi,Farm,False,Low,5000,True,True,15,True
+4944,Ravi Singh,55,Viman Nagar,Residential,True,Medium,1500,False,False,11,True
+8416,Reyansh Verma,45,Kothrud,Farm,False,Medium,5000,True,False,26,False
+6019,Krishna Mehta,29,Kothrud,Commercial,False,Low,8000,True,False,6,False
+7243,Aisha Naik,29,Viman Nagar,Commercial,False,Low,1500,True,False,10,False
+5923,Shaurya Naik,46,Bavdhan,Residential,True,Low,8000,False,False,20,False
+9892,Vivaan Kulkarni,54,Kedgaon,Residential,True,Medium,3000,False,True,30,False
+5950,Reyansh Pawar,38,Kothrud,Farm,True,High,3000,True,True,16,False
+8833,Tanya Patil,41,Bavdhan,Commercial,False,Medium,3000,False,False,18,True
+9450,Pooja Chavan,58,Aundh,Farm,True,Medium,8000,False,False,7,True
+9951,Pooja Pawar,58,Kothrud,Farm,False,Medium,500,False,True,28,False
+9456,Pooja Patil,54,Kedgaon,Residential,False,Medium,500,True,True,20,False
+7859,Aisha Gupta,41,Kedgaon,Farm,False,High,8000,False,True,22,True
+3096,Rupal Kumar,54,Hadapsar,Residential,True,High,3000,True,True,14,True
+8235,Shruti Kulkarni,27,Shivajinagar,Commercial,False,High,500,False,True,23,True
+5331,Aditya Kulkarni,49,Shivajinagar,Commercial,True,Low,5000,True,True,25,False
+8451,Vivaan Pawar,32,Kedgaon,Farm,True,High,1500,True,True,8,False
+7278,Ravi Verma,56,Kedgaon,Farm,True,High,5000,False,False,5,True
+1386,Shaurya Kumar,60,Aundh,Residential,False,High,8000,False,False,17,False
+8786,Aditya Naik,50,Kedgaon,Commercial,True,High,3000,False,False,14,False
+9464,Reyansh Bhosale,53,Bavdhan,Residential,False,Low,5000,True,False,27,True
+5715,Shruti Soni,56,Viman Nagar,Commercial,True,Low,1500,False,True,6,True
+9553,Shruti Jadhav,32,Shivajinagar,Commercial,False,Medium,5000,False,False,29,True
+1083,Madhuri Thakur,36,Aundh,Residential,True,High,8000,True,False,25,False
+4661,Nisha Kumar,41,Hinjewadi,Farm,False,Medium,3000,False,True,3,False
+5733,Arjun Kulkarni,31,Hinjewadi,Residential,False,High,1500,False,False,23,False
+8457,Krishna Bhosale,50,Pune,Farm,False,High,3000,True,False,7,True
+8893,Rupal Reddy,33,Shivajinagar,Farm,True,High,1500,False,False,2,False
+8318,Shaurya Mehta,43,Aundh,Farm,True,Medium,500,False,True,24,False
+8341,Yash Gupta,45,Shivajinagar,Residential,True,Medium,5000,True,False,29,False
+2861,Ravi Patil,32,Bavdhan,Commercial,False,Low,3000,True,True,21,True
+9172,Aisha Thakur,42,Kedgaon,Farm,True,High,8000,True,False,23,False
+3597,Nisha Gupta,52,Kothrud,Residential,True,High,3000,True,True,27,True
+1667,Vivaan Sharma,54,Viman Nagar,Residential,False,Medium,1500,False,False,14,True
+2344,Pooja Patil,31,Viman Nagar,Farm,False,Low,5000,False,False,3,False
+4712,Reyansh Kulkarni,59,Pune,Farm,False,Low,8000,False,True,5,True
+5125,Shaurya Shetty,53,Pune,Commercial,False,Medium,5000,True,True,1,True
+9421,Madhuri Jadhav,59,Viman Nagar,Commercial,True,High,500,True,True,11,False
+2180,Shruti Mehta,39,Bavdhan,Commercial,False,High,500,True,False,13,True
+3973,Aarav Singh,53,Shivajinagar,Commercial,False,Medium,500,True,True,2,True
+5904,Vivaan Joshi,32,Baner,Farm,True,High,5000,False,False,8,True
+3996,Yash Kulkarni,44,Hinjewadi,Farm,False,Medium,1500,True,True,28,True
+8405,Reyansh Mehta,52,Hadapsar,Commercial,True,Low,3000,False,False,12,False
+6443,Vivaan Kumar,27,Shivajinagar,Commercial,False,Low,3000,True,False,10,True
+7006,Isha Bhosale,33,Hinjewadi,Farm,False,Low,3000,True,False,6,False
+5052,Vivaan Thakur,51,Hadapsar,Farm,True,Low,8000,True,True,17,False
+1065,Vivaan Verma,30,Hadapsar,Residential,False,High,500,True,True,21,True
+2049,Pooja Reddy,53,Hadapsar,Commercial,True,High,3000,True,False,13,True
+4979,Arjun Bhosale,58,Aundh,Farm,False,Low,5000,False,False,28,False
+6440,Krishna Jadhav,32,Viman Nagar,Farm,True,Low,3000,True,False,14,False
+9852,Ravi Bhosale,54,Kothrud,Commercial,False,Medium,8000,True,False,1,False
+5254,Madhuri Yadav,29,Shivajinagar,Residential,True,Low,8000,True,True,24,True
+3800,Yash Mehta,55,Aundh,Farm,False,Low,8000,True,False,13,True
+4716,Aarav Chavan,37,Aundh,Farm,False,High,500,False,True,11,True
+1729,Madhuri Patil,32,Hinjewadi,Residential,True,Low,1500,False,True,23,True
+6798,Madhuri Reddy,60,Hinjewadi,Commercial,True,High,1500,True,True,25,True
+8745,Shaurya Verma,29,Shivajinagar,Commercial,False,Low,3000,False,False,4,True
+9129,Ananya Jadhav,45,Pune,Commercial,True,Low,500,False,True,9,True
+1308,Nisha Soni,26,Shivajinagar,Commercial,False,Low,500,False,False,24,False
+6394,Aisha Soni,43,Shivajinagar,Residential,True,High,500,False,True,24,False
+7230,Isha Naik,56,Baner,Residential,True,Medium,1500,False,False,18,True
+4934,Tanya Gupta,53,Bavdhan,Farm,False,Low,8000,False,False,25,True
+6823,Pooja Thakur,37,Viman Nagar,Residential,False,High,3000,True,False,22,False
+3406,Nisha Shetty,29,Bavdhan,Farm,False,Medium,1500,True,False,27,False
+1918,Aarav Bhosale,40,Baner,Farm,False,High,1500,True,False,22,False
+1816,Pooja Sharma,36,Shivajinagar,Farm,True,Medium,500,False,True,1,False
+5930,Aarav Chavan,38,Aundh,Residential,False,Medium,3000,True,False,27,False
+1780,Sai Verma,25,Shivajinagar,Farm,False,High,1500,False,True,20,False
+2499,Yash Jadhav,32,Hadapsar,Commercial,True,Low,500,False,False,30,True
+7023,Aditya Verma,55,Aundh,Commercial,True,Low,5000,True,True,4,False
+9979,Tanya Bhosale,35,Kedgaon,Farm,False,High,1500,False,False,6,False
+7866,Sai Deshmukh,27,Pune,Commercial,True,Low,500,True,False,28,False
+6490,Sai Mehta,35,Hinjewadi,Commercial,True,Low,3000,False,True,29,False
+1788,Madhuri Jadhav,29,Kothrud,Residential,True,Medium,5000,False,False,28,False
